@@ -38,26 +38,6 @@ proof/               -> screenshot UI (menyusul)
 build_real_absa_dataset.py  -> script pengambilan & sampling data asli dari sumber
 ```
 
-## Fitur "Pilih Hotel" (100% Gratis, Offline, Tanpa API/Kartu Kredit)
-
-Alih-alih scraping (melanggar ToS platform review) atau API berbayar (Google
-Places API butuh kartu kredit), fitur "Pilih Hotel" memakai **database hotel
-lokal** yang dibangun dari data ABSA asli yang sama, dikelompokkan ke 15 nama
-hotel contoh (lihat `src/build_hotel_database.py`).
-
-**Cara membangun ulang database ini (opsional, sudah ada di repo):**
-```bash
-python src/build_hotel_database.py
-```
-Ini akan membuat `data/hotel_reviews_db.csv` berisi ~104 review per hotel.
-
-**PENTING untuk laporan/verifikasi lisan:** ini adalah **simulasi pengelompokan**
-review ke nama hotel, BUKAN review sungguhan per hotel tersebut (dataset sumber
-tidak menyertakan info hotel). Isi teks review tetap asli dari data akademik;
-yang disimulasikan hanya "review ini milik hotel yang mana". Jelaskan ini
-secara transparan — ini termasuk keputusan teknis yang harus didokumentasikan
-sesuai ketentuan soal.
-
 ## Cara Menjalankan
 ```bash
 pip install -r requirements.txt
@@ -77,11 +57,10 @@ streamlit run app/app.py
 
 ## Halaman Aplikasi Streamlit
 1. **Beranda / Input Teks** — analisis satu review, lihat hasil ABSA + NER + highlight entitas
-2. **Pilih Hotel (Database Lokal)** — pilih hotel dari daftar, semua review-nya otomatis dianalisis (gratis, offline)
-3. **Upload CSV** — analisis banyak review sekaligus, download hasil sebagai CSV
-4. **Hasil NER** — eksplorasi detail token-level BIO tagging
-5. **Hasil ABSA** — eksplorasi detail klasifikasi aspek + sentimen
-6. **Dashboard Evaluasi** — metrik model, confusion matrix, error analysis
+2. **Upload CSV** — analisis banyak review sekaligus, download hasil sebagai CSV
+3. **Hasil NER** — eksplorasi detail token-level BIO tagging
+4. **Hasil ABSA** — eksplorasi detail klasifikasi aspek + sentimen
+5. **Dashboard Evaluasi** — metrik model, confusion matrix, error analysis
 7. **Panduan Penggunaan** — cara pakai + keterbatasan sistem + sumber data
 
 ## Hasil Training Saat Ini

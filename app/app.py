@@ -59,7 +59,7 @@ st.sidebar.title("🏨 TripSense")
 st.sidebar.caption("ABSA + NER untuk Review Hotel")
 page = st.sidebar.radio(
     "Navigasi",
-    ["🏠 Beranda / Input Teks", "🏨 Pilih Hotel (Database Lokal)", "📂 Upload CSV", "🔎 Hasil NER", "💬 Hasil ABSA",
+    ["🏠 Beranda / Input Teks", "📂 Upload CSV", "🔎 Hasil NER", "💬 Hasil ABSA",
      "📊 Dashboard Evaluasi"],
 )
 
@@ -112,85 +112,6 @@ if page == "🏠 Beranda / Input Teks":
                     st.markdown(f"- `{ent_type}` : {ent_text}")
             else:
                 st.caption("Tidak ada entitas terdeteksi.")
-
-# ---------------------------------------------------------------------------
-# HALAMAN BARU: PILIH HOTEL (DATABASE LOKAL — GRATIS, OFFLINE)
-# ---------------------------------------------------------------------------
-elif page == "🏨 Pilih Hotel (Database Lokal)":
-    st.title("🏨 Pilih Hotel & Analisis Otomatis")
-    st.markdown(
-        "Pilih hotel dari daftar, lalu semua review untuk hotel itu akan "
-        "**otomatis dianalisis**: aspek apa yang dibahas dan puas/kecewa "
-        "setiap review-nya — tanpa perlu API berbayar atau kartu kredit."
-    )
-
-    @st.cache_data
-    def load_hotel_db():
-        path = BASE_DIR / "data" / "hotel_reviews_db.csv"
-        return pd.read_csv(path)
-
-    try:
-        hotel_db = load_hotel_db()
-    except FileNotFoundError:
-        hotel_db = None
-
-    if hotel_db is None:
-        st.error(
-            "File `data/hotel_reviews_db.csv` belum ada. Jalankan dulu: "
-            "`python src/build_hotel_database.py`"
-        )
-    else:
-        hotel_options = (
-            hotel_db[["hotel", "city"]]
-            .drop_duplicates()
-            .assign(label=lambda d: d["hotel"] + " — " + d["city"])
-            .sort_values("hotel")
-        )
-        selected_label = st.selectbox("Pilih hotel:", hotel_options["label"].tolist())
-        selected_hotel = hotel_options.loc[hotel_options["label"] == selected_label, "hotel"].iloc[0]
-
-        hotel_reviews = hotel_db[hotel_db["hotel"] == selected_hotel]["text"].tolist()
-        st.caption(f"Ditemukan {len(hotel_reviews)} review untuk hotel ini di database lokal.")
-
-        if st.button("Analisis Semua Review Hotel Ini", type="primary"):
-            rows = []
-            with st.spinner(f"Menganalisis {len(hotel_reviews)} review..."):
-                for text in hotel_reviews:
-                    absa_result = predict_absa(text, models)
-                    ner_result = predict_ner(text, models)
-                    entities = group_entities(ner_result)
-                    rows.append({
-                        "text": text,
-                        "predicted_aspect": absa_result["aspect"],
-                        "predicted_sentiment": absa_result["sentiment"],
-                        "entities": ", ".join(f"{t}[{typ}]" for t, typ in entities) if entities else "-",
-                    })
-
-            result_df = pd.DataFrame(rows)
-            st.success(f"Analisis selesai untuk **{selected_label}**")
-            st.dataframe(result_df, use_container_width=True)
-
-            st.markdown("### Ringkasan Otomatis")
-            col1, col2 = st.columns(2)
-            with col1:
-                st.write("**Distribusi Aspek yang Dibahas**")
-                st.bar_chart(result_df["predicted_aspect"].value_counts())
-            with col2:
-                st.write("**Distribusi Sentimen**")
-                st.bar_chart(result_df["predicted_sentiment"].value_counts())
-
-            st.markdown("### Sentimen per Aspek")
-            pivot = pd.crosstab(result_df["predicted_aspect"], result_df["predicted_sentiment"])
-            st.bar_chart(pivot)
-
-            csv_download = result_df.to_csv(index=False).encode("utf-8")
-            st.download_button(
-                "Download Hasil (CSV)",
-                data=csv_download,
-                file_name=f"hasil_analisis_{selected_hotel.replace(' ', '_')}.csv",
-                mime="text/csv",
-            )
-
 
 # ---------------------------------------------------------------------------
 # HALAMAN 2: UPLOAD CSV
