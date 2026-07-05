@@ -60,7 +60,7 @@ st.sidebar.caption("ABSA + NER untuk Review Hotel")
 page = st.sidebar.radio(
     "Navigasi",
     ["🏠 Beranda / Input Teks", "🏨 Pilih Hotel (Database Lokal)", "📂 Upload CSV", "🔎 Hasil NER", "💬 Hasil ABSA",
-     "📊 Dashboard Evaluasi", "📖 Panduan Penggunaan"],
+     "📊 Dashboard Evaluasi"],
 )
 
 models = get_models()
@@ -123,23 +123,6 @@ elif page == "🏨 Pilih Hotel (Database Lokal)":
         "**otomatis dianalisis**: aspek apa yang dibahas dan puas/kecewa "
         "setiap review-nya — tanpa perlu API berbayar atau kartu kredit."
     )
-
-    with st.expander("ℹ️ Tentang data hotel ini"):
-        st.markdown(
-            """
-Database hotel ini bersifat **simulasi pengelompokan**, dibangun 100% offline
-dari dataset ABSA asli yang sama (Cahyaningtyas et al., 2021). Karena dataset
-sumber tidak menyertakan info "review ini dari hotel mana", kita mengelompokkan
-review-review asli tersebut secara merata ke 15 nama hotel contoh supaya kamu
-bisa merasakan pengalaman "pilih hotel → lihat hasil analisis otomatis" tanpa
-scraping (yang melanggar ToS platform review) atau API berbayar.
-
-Isi setiap review **tetap teks asli** dari data akademik tsb — yang disimulasikan
-hanya **pengelompokan "review ini milik hotel yang mana"**. Ini WAJIB kamu
-jelaskan secara transparan saat verifikasi lisan (sama seperti disclaimer
-dataset NER hybrid).
-            """
-        )
 
     @st.cache_data
     def load_hotel_db():
@@ -360,40 +343,3 @@ elif page == "📊 Dashboard Evaluasi":
                 st.code(f.read(), language="text")
         else:
             st.warning("Laporan evaluasi NER belum ditemukan. Jalankan `python src/build_and_train_ner.py` terlebih dahulu.")
-
-# ---------------------------------------------------------------------------
-# HALAMAN 6: PANDUAN PENGGUNAAN
-# ---------------------------------------------------------------------------
-elif page == "📖 Panduan Penggunaan":
-    st.title("📖 Panduan Penggunaan TripSense")
-    st.markdown("""
-### Apa itu TripSense?
-TripSense adalah aplikasi analisis review hotel yang dapat:
-1. Mendeteksi **aspek** yang dibahas dalam review (kamar, lokasi, fasilitas, pelayanan, sarapan, harga)
-2. Mendeteksi **sentimen** (positif/negatif) untuk aspek tersebut
-3. Mengenali **entitas** seperti nama hotel dan lokasi/kota dalam teks
-
-### Cara Menggunakan
-1. **Beranda / Input Teks** — tulis atau tempel satu review, klik "Analisis Review"
-   untuk melihat hasil ABSA dan NER sekaligus.
-2. **Upload CSV** — untuk menganalisis banyak review sekaligus, upload file CSV
-   dengan kolom bernama `text`. Hasil bisa didownload kembali sebagai CSV.
-3. **Hasil NER** — eksplorasi detail hasil pengenalan entitas per token (BIO tagging).
-4. **Hasil ABSA** — eksplorasi detail hasil klasifikasi aspek dan sentimen.
-5. **Dashboard Evaluasi** — melihat performa model (akurasi, precision, recall, F1,
-   confusion matrix, contoh kesalahan prediksi).
-
-### Keterbatasan Sistem
-- Model ABSA hanya mengenali 6 aspek utama (kamar, lokasi, fasilitas, pelayanan, sarapan, harga)
-  dan 2 sentimen (positif/negatif) — belum ada kelas netral karena keterbatasan data asli.
-- Model NER dilatih dari dataset hybrid (konten aspek asli + kalimat pembungkus buatan),
-  sehingga performanya pada kalimat yang sangat berbeda strukturnya bisa menurun.
-- Aplikasi ini dibuat untuk keperluan akademik (UAS mata kuliah Pemrosesan Bahasa
-  Alami Berbasis Teks), bukan untuk penggunaan produksi/komersial.
-
-### Sumber Data
-Dataset ABSA berasal dari penelitian: Cahyaningtyas, S., Hatta Fudholi, D., &
-Fathan Hidayatullah, A. (2021). *Deep Learning for Aspect-Based Sentiment
-Analysis on Indonesian Hotels Reviews*. Kinetik: Game Technology, Information
-System, Computer Network, Computing, Electronics, and Control, 6(3).
-""")
