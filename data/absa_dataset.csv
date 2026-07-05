@@ -1,0 +1,1561 @@
+text,aspect,sentiment
+rasa makanan perlu tingkatkan,sarapan,negatif
+pintu masuk dekat lampu_merah sulit masuknya,lokasi,negatif
+fasilitas ruang_rapat oke,fasilitas,positif
+hanya ada fasilitas water sport,fasilitas,negatif
+fasilitas tidak_termasuk harga kamar,harga,negatif
+ac air_panas berfungsi baik,kamar,positif
+sarapan anak disuruh bayar,harga,negatif
+ada smooking_room,kamar,positif
+tidak_layak_pakai warna pudar tidak_nyaman dilihat dipakai,kamar,negatif
+pengantaran koper terlalu lama,pelayanan,negatif
+harga murah masuk akal,harga,positif
+ramah pengunjung,pelayanan,positif
+alat lengkap hair_dryer setrika hangar tergantung rapi,kamar,positif
+menu variasi,sarapan,positif
+ada salad segar,sarapan,positif
+sarapan hanya nasgor teh,sarapan,negatif
+hotel baru,fasilitas,positif
+kasur bunyi,kamar,negatif
+sprei lengket jorok seperti bekas tamu pijat tidak_diganti,kamar,negatif
+sarapan banyak habis,sarapan,negatif
+fasilitas wifi suka macet,fasilitas,negatif
+pelayanan sopan ramah,pelayanan,positif
+lokasi dekat hartono_mall,lokasi,positif
+gratis makanan,harga,positif
+tv kabel tidak_ada,kamar,negatif
+taman berasa eropa,fasilitas,positif
+ada playground taman jalan_jalan lengkap,fasilitas,positif
+pegawai sigap menuangkan minuman,pelayanan,positif
+lokasi strategis daerah kuta mudah cari tempat_makan musli depan hotel,lokasi,positif
+akses menuju hotel jauh harus memutar,lokasi,negatif
+harga cocok menginap istirahat,harga,positif
+layanan buruk,pelayanan,negatif
+mesin_cuci bisa digunakan ac dingin,kamar,positif
+nyaman cocok terhindar keramaian,lokasi,positif
+tidak_ada lift khusus barang,fasilitas,negatif
+sajian bbq enak,sarapan,positif
+air_panas berfungsi baik,kamar,positif
+dekat kemana_mana euphoria bali,lokasi,positif
+rooftop cafe nyaman,sarapan,positif
+suasana sepi nyaman membuat betah,lokasi,positif
+lobi hotel luas,fasilitas,positif
+lokasi enak sepi sunyi,lokasi,positif
+air_kemasan gratis,harga,positif
+lokasi sulit ditemukan pendatang menggunakan transportasi umum,lokasi,negatif
+air_mineral botol bayar,harga,negatif
+kamar tidak_sesuai pesanan,pelayanan,negatif
+fasilitas nomor satu bisa naik kuda,fasilitas,positif
+akses mudah fasilitas publik,lokasi,positif
+harga tidak_termasuk pajak pelayanan,harga,negatif
+ada kebijakan ada masalah jangan_membuat customer kecewa,pelayanan,negatif
+interior klasik,fasilitas,positif
+amenities tidak_lengkap,kamar,negatif
+mobil innova tidak_bisa masuk,lokasi,negatif
+kamar indah menyejukkan,kamar,positif
+satpam bisa lebih sopan tamu,pelayanan,negatif
+coba tolak_angin eskrim,sarapan,positif
+cocok pelancong membutuhkan akomodasi harga rendah,harga,positif
+hotel bangunan luar tampak klasik,fasilitas,positif
+kekurangan lokasi sulit dijangkau,lokasi,negatif
+akses masuk hotel sulit posisi tikungan,lokasi,negatif
+pelayanan sekali telpon langsung datang,pelayanan,positif
+makanan diambil aman pandemi,sarapan,positif
+dessert tidak_segar pudding rasa hambar,sarapan,negatif
+balkon langsung bisa lihat baik pemandangan,kamar,positif
+pihak resto memberi pelayanan terbaik tidak_mengecewakan,pelayanan,negatif
+lokasi cukup enak,lokasi,positif
+ada sky bar cafe menikmati petang jogja alunan live_music,fasilitas,positif
+sarapan tidak_ada,sarapan,negatif
+menu makanan tidak_selera dapat sisa sedikit,sarapan,negatif
+kamar minimalis,kamar,positif
+dapat fasilitas gratis upgrade_kamar,harga,positif
+harga fantastis ekonomis bersahabat,harga,positif
+saluran_tv tidak_lengkap,kamar,negatif
+handuk ada tambahan_biaya,harga,negatif
+pelayanan prokes baik,pelayanan,positif
+rekomendasi backpacker,harga,positif
+suasana sepi terkesan horor,lokasi,negatif
+ada penjemputan bandara,pelayanan,positif
+cicip menu pizza baru barista enak,sarapan,positif
+parkir masih dipungut harga,harga,negatif
+pembatasan jumlah pengunjung kolam_renang,fasilitas,negatif
+dekat malioboro dekat gudeg yudjum,lokasi,positif
+harga terjangkau kantong,harga,positif
+harga aplikasi tidak_sesuai,harga,negatif
+menu membakar lebih sedikit mentah,sarapan,negatif
+tempat_parkir sulit terbatas,fasilitas,negatif
+rooftop asik nongkrong,fasilitas,positif
+lokasi atas jauh pusat,lokasi,negatif
+interior hotel mewah menggunakan marmet lampu kristal,fasilitas,positif
+tempat olahraga bersih lengkap,fasilitas,positif
+kamar bersih air_hangat berfungsi baik,kamar,positif
+jauh kawasan padat lalu_lintas tenang,lokasi,positif
+ada staff galak,pelayanan,negatif
+relatif jauh atm minimarket,lokasi,negatif
+harga sesuai hotel bintang_lima tengah jogja,harga,positif
+ramadhan disediakan makan sahur,sarapan,positif
+air shower deras jernih,kamar,positif
+menu kurang,sarapan,negatif
+pelayanan profesional,pelayanan,positif
+kamar rapi,kamar,positif
+akses jalan menuju lokasi jalan_utama sempit hanya muat satu mobil,lokasi,negatif
+minum sudah habis,sarapan,negatif
+pelayanan cepat diantar,pelayanan,positif
+sulit urusan uang harus ada jaminan,harga,negatif
+kolam_renang banyak daun,fasilitas,negatif
+makanan enak banyak pilihan lengkap appertizer hingga dessert,sarapan,positif
+tidak_tanggap layani tamu,pelayanan,negatif
+lokasi sunyi,lokasi,positif
+sinyal lemah kamar,fasilitas,negatif
+terbangun suara musik lantai bawah keras,fasilitas,negatif
+handuk tidak_ada harus sewa,harga,negatif
+hotel letak strategis pusat_kota,lokasi,positif
+rekomendasi pelancong backpacker,harga,positif
+sarapan bisa buat roti_bakar sendiri,sarapan,positif
+lokasi jauh stasiun malioboro,lokasi,negatif
+hotel ngumpet masuk gang,lokasi,negatif
+makanan harus pilih tidak_dapat semua menu,sarapan,negatif
+aroma therapy hotel lekat suasana yogyakarta,fasilitas,positif
+akses kamar pakai lift menggunakan kartu sehingga aman,fasilitas,positif
+jalan depan padat,lokasi,negatif
+staff hotel ramah,pelayanan,positif
+gratis refill air_minum,harga,positif
+jamu lengkap segar roti kukus lembut,sarapan,positif
+tempat_parkir mobil sempit,fasilitas,negatif
+kamar luas ada sofa kulkas,kamar,positif
+air mandi asin,kamar,negatif
+pilihan menu sarapan jangan_diragukan,sarapan,positif
+rasa tidak_menggigit,sarapan,negatif
+akses menuju lokasi ekstrem medan,lokasi,negatif
+pelayanan baik responsif,pelayanan,positif
+harga satu juta tidak_cocok dibanding hotel lain harga sama,harga,negatif
+tidak_ramah_anak,fasilitas,negatif
+tempat sepi mengerikan,lokasi,negatif
+kamar mewah ada dapur mini_dapur,kamar,positif
+makanan hanya ada prasmanan jumlah rasa tidak_memuaskan,sarapan,negatif
+kolam besar tidak_terkalahkan,fasilitas,positif
+jalan hanya bisa satu mobil,lokasi,negatif
+beberapa tempat jauh dijangkau jalan_kaki,lokasi,negatif
+lokasi mudah cari dekat simpang_lima,lokasi,positif
+harga promo bukan_harga final masih ada tambahan_biaya,harga,negatif
+jalanan sepanjang lapangan golf bersih hijau,fasilitas,positif
+prokes sarapan jumlah orang tidak_diterapkan,pelayanan,negatif
+hotel banyak aktivitas fasilitas bisa membangkitkan mood liburan keluarga,fasilitas,positif
+buah sudah layu alias peot peot,sarapan,negatif
+shower kolam_renang jamuran tidak_terawat,fasilitas,negatif
+harga lebih_mahal hotel bintang_lima sekitarnya,harga,negatif
+kamar_mandi lengkap hair_dryer,kamar,positif
+harga offline lebih_mahal,harga,negatif
+tidak_tertera nama guest house,fasilitas,negatif
+pelayan resto tidak_ramah,pelayanan,negatif
+datang sambut hangat,pelayanan,positif
+kaca jendela tidak_rapat,kamar,negatif
+tidak_profesional,pelayanan,negatif
+makanan minuman disajikan cukup enak,sarapan,positif
+kamar rapi desain interior menarik modern nyaman istirahat,kamar,positif
+wifi terputus,fasilitas,negatif
+harga tidak_ada termasuk sarapan,harga,negatif
+tidak_sesuai sarapan harga lima_belas_ribu porsi,harga,negatif
+makanan variasi enak masak tradisional jamu western,sarapan,positif
+jaringan wifi minus tidak_layak,fasilitas,negatif
+tidak_bisa akses kemana_mana,lokasi,negatif
+pesan kamar harga satu juta zonk menyesal mengecewakan,harga,negatif
+extra kasur mahal,harga,negatif
+tempat sejuk jauh bising panas kota,lokasi,positif
+menu sarapan variasi masakan tradisional asia setaraf hotel bintang_lima puas,sarapan,positif
+desain kamar baik melebih ekspektasi,kamar,positif
+staff ramah lobi pintu masuk hotel,pelayanan,positif
+staff hotel cantik cantik ganteng ganteng,pelayanan,positif
+transportasi mudah,lokasi,positif
+banyak variasi menu anak,sarapan,positif
+keunggulan hotel dilengkapi empat buah bantal,kamar,positif
+lobi resto panas hawanya seperti tidak_ada ac,sarapan,negatif
+tidak_perlu bohong staff depan,pelayanan,negatif
+harga cocok anggaran_rendah backpacker,harga,positif
+lokasi prima pusat_kota dekat pusat perbelanjaan,lokasi,positif
+sauna jacuzzi tutup,fasilitas,negatif
+harga reasonable sesuai,harga,positif
+hotelier ramah santun,pelayanan,positif
+akses menuju lokasi jalan rusak belum_aspal,lokasi,negatif
+harga tidak_membuat kantong jebol,harga,positif
+villa harga ekonomis,harga,positif
+tempat_parkir tidak_aman,fasilitas,negatif
+resepsionis ramah,pelayanan,positif
+menu sarapan hanya dua variasi,sarapan,negatif
+checkin efisien cekatan mantap,pelayanan,positif
+tempat nyaman backpacker,harga,positif
+tidak_manusiawi satpam memperlakukan driver gojek antar makanan tamu,pelayanan,negatif
+lokasi strategis suasa tenang,lokasi,positif
+penanganan prokes baik merasa aman,pelayanan,positif
+promo diskon,harga,positif
+kamar memiliki aroma keharuman bunga khas,kamar,positif
+kamar bersih,kamar,positif
+dapat gratis fruit_bucket,harga,positif
+lambat merespon permintaan tamu,pelayanan,negatif
+amenities minim ac bocor lampu kedip tv kabel tidak_lengkap rcti tidak_ada,kamar,negatif
+ayam opor juara,sarapan,positif
+buah dikeliling binatang terbang,sarapan,negatif
+jendela cukup besar,kamar,positif
+suka interior kamar,kamar,positif
+tidak_ramah datang checkin,pelayanan,negatif
+pilihan makanan sarapan sedikit,sarapan,negatif
+flush toilet macet,kamar,negatif
+porsi sarapan disiapkan sedikit,sarapan,negatif
+kamar sempit agak sumpek,kamar,negatif
+letak oke,lokasi,positif
+kamar_mandi nyaman ada shower bathtub,kamar,positif
+handuk bau aneh,kamar,negatif
+momen sarapan merusak semua mood,sarapan,negatif
+kolam terlalu dingin,fasilitas,negatif
+pembatalan secara sepihak membuat customer merasa dirugikan,pelayanan,negatif
+lift tidak_bisa perbaikan,fasilitas,negatif
+lokasi agak dalam jalan sempit ukuran bus,lokasi,negatif
+hotel sedikit mahal,harga,negatif
+kamar ramah anak,kamar,positif
+sarapan nasi dingin sup tidak_hangat,sarapan,negatif
+layout kamar modern compact,kamar,positif
+suasana tenang jauh keramaian,lokasi,positif
+kamar nyaman bantal besar empuk,kamar,positif
+hotel jauh kota,lokasi,negatif
+interior terkesan megah royal,fasilitas,positif
+pelayanan patut diacungi jempol,pelayanan,positif
+menu minim seadanya,sarapan,negatif
+hotel berkelas,fasilitas,positif
+menu makanan enak,sarapan,positif
+kolam_renang baik,fasilitas,positif
+unik ada jam jbl berfungsi wireless speaker alarm kamar,kamar,positif
+minta air_panas harus bayar lima_ribu keterlaluan,harga,negatif
+cermin besar dinding kamar favorit,kamar,positif
+rooftop asik bersantai,fasilitas,positif
+kamar_mandi tidak_berdekatan shower mandi kloset,kamar,positif
+kamar artistik bersih,kamar,positif
+ac berisik mengganggu tidur,kamar,negatif
+harga cukup mahal tidak_ada wifi,harga,negatif
+lokasi strategis dekat berpergian,lokasi,positif
+koper patah dijatuhkan bell_boy,pelayanan,negatif
+pelayanan paling utama,pelayanan,positif
+handuk tidak_gratis harus sewa,harga,negatif
+interior hotel minimalis manis,fasilitas,positif
+resepsionis tidak_welcome agresif,pelayanan,negatif
+lokasi tidak_ramah_anak orang_tua berbatu menanjak,lokasi,negatif
+rasa asin ikan goreng tepung sayurnya,sarapan,negatif
+terletak pusat_kota,lokasi,positif
+masakan relatif bersih,sarapan,positif
+order menu makan_siang gratis pengantaran gratis es_boba,harga,positif
+senang hotel menyediakan fasilitas sewa motor,fasilitas,positif
+ada deposit seratus_ribu jaminan apabila ada kerusakan,harga,negatif
+kamar hotel provate balkon nilai tambah,kamar,positif
+ada gratis makan_malam,harga,positif
+linen tidak_diganti,kamar,negatif
+lokasi cukup jauh jalan_jalan,lokasi,negatif
+sarapan lengkap,sarapan,positif
+lokasi tidak_nyaman,lokasi,negatif
+sarapan ada tambahan_biaya,harga,negatif
+diberi surprise gift cake,pelayanan,positif
+sudut bawah meja kamar bersih tidak_debu,kamar,positif
+beberapa spot hotel dalam tahap perbaikan,fasilitas,negatif
+hotel nyaman daerah jalan_parangtritis,lokasi,positif
+ruang spa tidak_berfungsi peralatan gym area rusak perlu diganti,fasilitas,negatif
+pelayanan maksimal,pelayanan,positif
+suasana berisik banyak kereta lewat,lokasi,negatif
+lokasi dalam lorong,lokasi,negatif
+kamar eksekutif luas bersih,kamar,positif
+resto kecil tidak_bisa menampung semua tamu,sarapan,negatif
+sulit cari makanan lokasi jalan jauh,lokasi,negatif
+masakan tidak_enak,sarapan,negatif
+pesan makanan harga cukup mahal,harga,negatif
+harga segitu kualitas kurang,harga,negatif
+kamar luas ada heater tea_corner kamar,kamar,positif
+suka ramah_tamah,pelayanan,positif
+berasa ada pedesaan adem ayem,lokasi,positif
+harga murah sesuai ditawarkan,harga,positif
+sayang lokasi penuh kemacetan pusat_kota,lokasi,negatif
+kolam_renang buruk,fasilitas,negatif
+tempat strategis dekat tempat_makan malioboro,lokasi,positif
+kamar luas kamar besar empuk,kamar,positif
+kamar menggunakan tv kabel,kamar,positif
+kamar terlihat tua,kamar,negatif
+kolam_renang banyak daun ngambang,fasilitas,negatif
+lokasi masuk gang,lokasi,negatif
+pengembalian uang deposit berteletele,pelayanan,negatif
+lokasi jalan hotel bebatuan rusak,lokasi,negatif
+tarif kamar tidak_ekonomis,harga,negatif
+rasa mie_goreng sudah basi nasi ada basi,sarapan,negatif
+staff tidak_profesional tidak_ada permintaan maaf,pelayanan,negatif
+staff tidak_percaya memaksa mengecek masuk kamar_mandi,pelayanan,negatif
+waffle enak,sarapan,positif
+kualitas makanan lumayan baik,sarapan,positif
+pemandangan nyaman,lokasi,positif
+snack dijual murah,harga,positif
+staff tidak_ramah apatis,pelayanan,negatif
+lokasi menarik,lokasi,positif
+baru bisa masuk kamar jam lima sore penuh,pelayanan,negatif
+staff diam tidak_bantu,pelayanan,negatif
+sarapan variasi makanan banyak,sarapan,positif
+dapat memesan rental mobil pelayan,pelayanan,positif
+menu makanan biasa menurutku,sarapan,negatif
+checkout ditagih harga sarapan padahal tidak_sarapan,harga,negatif
+staff tidak_berseragam,pelayanan,negatif
+ternyata tidak_hanya dekat masjid jogokariyan juga dekat pusat perbelanjan superindo dekat atm spbu makanan rumahan,lokasi,positif
+checkin checkout cepat,pelayanan,positif
+sulit parkir,fasilitas,negatif
+harga ekonomis ada promo,harga,positif
+sarapan habis,sarapan,negatif
+lampu kamar redup,kamar,negatif
+jalan menuju lokasi melewati jalan sempit,lokasi,negatif
+lokasi hotel strategis tempat_wisata hiburan tempat bersejarah jarak dapat dijangkau hotel,lokasi,positif
+lift pengap tidak_ada pengharum ruangan,fasilitas,negatif
+makanan sedikit anyep,sarapan,negatif
+wifi tidak_berfungsi,fasilitas,negatif
+handuk bersih,kamar,positif
+remote tv sulit pindah saluran,kamar,negatif
+kamar tidak_terawat baik,kamar,negatif
+makanan seperti tidak_diberi garam,sarapan,negatif
+ada kulkas dispenser,kamar,positif
+kelebihan lokasi dekat tugu malioboro,lokasi,positif
+kamar bersih suka amenitis menggunakan natasha,kamar,positif
+cocok jalan_jalan hemat nginep sini,harga,positif
+setiap kamar terdapat bathtub,kamar,positif
+tidak_senyum,pelayanan,negatif
+ulat ada gelas diminum,sarapan,negatif
+sarapan lebih_baik warteg,sarapan,negatif
+staff melempar menyalahkan agoda,pelayanan,negatif
+tidak_puas pelayanan hotel,pelayanan,negatif
+ada deposit dua_ratus_ribu,harga,negatif
+tidak_ada sarapan,sarapan,negatif
+kebetulan nginap ada promo dapat harga miring,harga,positif
+genset hotel tidak_bisa nyala,fasilitas,negatif
+pelayanan tetap profesional,pelayanan,positif
+interior kamar perpaduan tradisional modern cantik,kamar,positif
+staff ramah khas jogja,pelayanan,positif
+staff murah senyum,pelayanan,positif
+harga tidak_terjangkau tidak_termasuk sarapan,harga,negatif
+rekomendasi anggaran_rendah,harga,positif
+perlu cari chef menyajikan menu citarasa sesuai kelas bintang,sarapan,negatif
+kamar karpet kecil harga mahal,harga,negatif
+waffle juara umum,sarapan,positif
+suasana tenang pedesaan,lokasi,positif
+jalan masuk lokasi menantang,lokasi,negatif
+akses kemana_mana mudah,lokasi,positif
+kamar kotor lubang besar tirai handuk kotor selimut banyak noda,kamar,negatif
+kamar_mandi bersih perlengkapan_mandi ada,kamar,positif
+sepi seperti punya swiming kolam_renang pribadi,fasilitas,positif
+tampak luar hotel sederhana,fasilitas,negatif
+kolam_renang kotor banyak daun,fasilitas,negatif
+kamar ada balkon berjemur,kamar,positif
+fasilitas jacuzzi naik andong memancing,fasilitas,positif
+hotel minimalis unik banyak lukisan dinding,fasilitas,positif
+lokasi tenang,lokasi,positif
+menu resto sarapan bisa dinikmati,sarapan,positif
+ruang terbuka luas sejuk asri,lokasi,positif
+baik harga segini,harga,positif
+air_minum bayar,harga,negatif
+sarapan enak tidak_bisa berhenti makan,sarapan,positif
+tidak_semua kamar pemandangan baik,kamar,negatif
+harga lima_ratus_ribu tidak_pas,harga,negatif
+buah ada rasa pahit,sarapan,negatif
+staff ramah siap dua_empat_jam,pelayanan,positif
+medan arah penginapan jalan bebatuan belum_aspal,lokasi,negatif
+sarapan enak lengkap auce,sarapan,positif
+lokasi mendukung,lokasi,positif
+harga rentang kamar naik signifikan,harga,negatif
+ada dapur meja makan ruang_tamu,kamar,positif
+letak jalan prawirotaman banyak tempat_makan dekat pasar,lokasi,positif
+pintu_kamar sulit ditutup,kamar,negatif
+gedung luar tampak tidak_menarik,fasilitas,negatif
+nanjak tinggi jauh tempat_parkir,fasilitas,negatif
+resepsionis ramah dibantu cari transport,pelayanan,positif
+kamar debu,kamar,negatif
+lokasi jauh masuk desa,lokasi,negatif
+petunjuk jalan kecil,fasilitas,negatif
+dapat harga epic diskon,harga,positif
+harga ekonomis hemat kantong,harga,positif
+lokasi masuk gang kecil sulit dicari,lokasi,negatif
+suasana nyaman,lokasi,positif
+harga oke murah,harga,positif
+cocok menginap menunggu jadwal kereta,lokasi,positif
+posisi gang sempit,lokasi,negatif
+ada cafe tempat luas nyaman nuansa jawa,sarapan,positif
+harga parkir setengah harga kamar,harga,negatif
+hotel masuk gang,lokasi,negatif
+lintas depan hotel padat,lokasi,negatif
+lokasi pertokoan tidak_nyaman,lokasi,negatif
+kolam_renang bar daya tarik pelancong,fasilitas,positif
+pilihan makanan sarapan banyak,sarapan,positif
+harusnya lebih_murah hotel bintang_satu,harga,negatif
+dinding kamar tidak_kedap_suara,kamar,negatif
+jalan menuju hotel jalan jauh,lokasi,negatif
+satpam bantu,pelayanan,positif
+early_checkin harus bayar tambahan_biaya,harga,negatif
+harga dibayar tidak_sesuai fasilitas,harga,negatif
+dispenser air kosong,sarapan,negatif
+ruang_makan ada tempat duduk luar,sarapan,positif
+sebelum jam sarapan habis staff beresin semua makanan,sarapan,negatif
+ada western makanan indonesia,sarapan,positif
+sekitaran kolam_renang anak licin,fasilitas,negatif
+kondisi luar hotel desa kampung sulit cari makanan luar hotel,lokasi,negatif
+lokasi hotel malam jalan gelap,lokasi,negatif
+perlu bayar ekstra,harga,negatif
+ac dingin amenities lengkap,kamar,positif
+tidak_promo tidak_diskon,harga,negatif
+promo keren murah seru,harga,positif
+kamar nyaman tidak_bising terletak pusat_kota dekat pusat_kota,lokasi,positif
+hotel rekomendasi pelancong,harga,positif
+kemana_mana jauh,lokasi,negatif
+mbak ariana staff restoran salah_satu staff super ramah,pelayanan,positif
+ada wedang jahe kopi mie godok chef,sarapan,positif
+menu tidak_prasmanan tidak_bebas pilih,sarapan,negatif
+lebih_murah langsung reservasi via call_center,harga,positif
+wifi lambat suka terputus,fasilitas,negatif
+kondisi pandemi menu sarapan lengkap,sarapan,positif
+pelayanan front_office cepat,pelayanan,positif
+suasana sejuk terseret ruang waktu kembali jaman kerajaan jawa tempo,lokasi,positif
+dekorasi kamar adat jawa dilengkapi bathtub sabun shampoo krim,kamar,positif
+nasi keras dikunyah,sarapan,negatif
+kamar nyaman bersih kamar_mandi bersih,kamar,positif
+gratis sarapan anak,harga,positif
+mobil pecah dibantu sampai selesai,pelayanan,positif
+menu buka_puasa sajikan promosikan tidak_sama,sarapan,negatif
+samping hotel ada food centrum,lokasi,positif
+memiliki banyak saluran tv,kamar,positif
+perlengkapan_mandi ada lengkap,kamar,positif
+air kamar_mandi bau,kamar,negatif
+access card kamar tidak_berfungsi,kamar,negatif
+depan hotel ada tempat_makan resto,lokasi,positif
+menuju hotel jalan kecil,lokasi,negatif
+staff kolam_renang galak tidak_ramah,pelayanan,negatif
+lobi hotel mewah lantai dinding full granit kaca,fasilitas,positif
+kamar sempit sholat,kamar,negatif
+lorong hotel bersih wangi full karpet,fasilitas,positif
+sarapan bersih enak,sarapan,positif
+checkin lama tunggu satu jam,pelayanan,negatif
+malam minggu ada bbq umum harga cocok murah,harga,positif
+harga tambah kasur dua_ratus_ribu mahal dibanding lain,harga,negatif
+hotel wow harga promo murah terus promo diskon,harga,positif
+sarapan cepat habis,sarapan,negatif
+tidak_ada cafe live_music,fasilitas,negatif
+rasa asin lidah,sarapan,negatif
+titik lokasi maps melenceng,lokasi,negatif
+menu sarapan makan_malam enak,sarapan,positif
+saat masuk sambut jamuan hangat nuansa budata kental,pelayanan,positif
+harga terjangkau backapacker,harga,positif
+harga mahal,harga,negatif
+tampak depan terlihat enak rapi dilihat luar,fasilitas,positif
+sarapan variasi,sarapan,positif
+taman ada spot foto becak dokar,fasilitas,positif
+kecewa sarapan anak bayar,harga,negatif
+harga bayar langsung lebih_mahal,harga,negatif
+tidak_ada cermin rias dalam kamar,kamar,negatif
+tidak_diragukan fasilitas,fasilitas,positif
+harga termasuk pajak pelayanan,harga,positif
+termasuk harga sewa kamar,harga,positif
+lokasi dekat kampus dekat hartono_mall,lokasi,positif
+rasa mie biasa,sarapan,negatif
+sarapan biasa,sarapan,negatif
+suasana sunyi jadi bisa rileks bisa menuangkan ide kamar,lokasi,positif
+pembayaran mudah bisa bayar debit,harga,positif
+amenities lengkap perabot kualitas tinggi,kamar,positif
+hotel satu gedung mall,fasilitas,positif
+makanan habis lambat refill,pelayanan,negatif
+tidak_punya standar pelayanan,pelayanan,negatif
+staff tidak_ramah,pelayanan,negatif
+sedikit pilihan menu makanan,sarapan,negatif
+harga murah tempat mewah premium,harga,positif
+coba angkringannya,sarapan,positif
+menikmati fasilitas ballroom lengkap,fasilitas,positif
+handuk kotor,kamar,negatif
+tidak_ada tempat ibadah sholat,kamar,negatif
+harga relatif murah nyaman kantong,harga,positif
+hotel angkat tema industrial,fasilitas,positif
+fasilitas hotel parah mengecewakan,fasilitas,negatif
+sarapan kehabisan gas,sarapan,negatif
+dekat tugu yogja,lokasi,positif
+dapat upgrade_kamar gratis pihak hotel,harga,positif
+staff berdandan baik,pelayanan,positif
+alat_makanan seperti warteg,sarapan,negatif
+kesulitan waktu cari lokasi hotel berada kompleks ruko,lokasi,negatif
+perlu tingkatkan keramahan staff,pelayanan,negatif
+nyaman bersih makanan enak,sarapan,positif
+makanan ada rambut,sarapan,negatif
+resepsionis tidak_informasi detail,pelayanan,negatif
+toilet parkir luar kumuh,fasilitas,negatif
+lift nunggu lama,fasilitas,negatif
+upgrade_kamar mahal,harga,negatif
+handuk putih warna jadi kuning,kamar,negatif
+pintu tembok kamar perlu perbaikan dibersihkan,kamar,negatif
+kamar kedap_suara,kamar,positif
+harga cocok backpacker,harga,positif
+sarapan ada menu jajanan_pasar khas jogja,sarapan,positif
+jauh toko,lokasi,negatif
+harga tidak_oke,harga,negatif
+suara musik rooftop bar tengah malam terdengar,fasilitas,negatif
+pelayanan staff tidak_beri handuk kolam_renang,pelayanan,negatif
+posisi bangunan hotel menempel jalan tidak_memungkinkan membawa mobil,lokasi,negatif
+hotel tenang jauh keramaian lalu_lintas,lokasi,positif
+harga tidak_reasonable,harga,negatif
+lokasi sulit dilalui mobil,lokasi,negatif
+makanan tidak_selera,sarapan,negatif
+massage murah,harga,positif
+lokasi strategis tempat perbelanjaan rumah_sakit kuliner wisata,lokasi,positif
+ada kulkas,kamar,positif
+kolam_renang luas pemandangan keren,fasilitas,positif
+rasa nasgor seperti hanya diberi bumbu instan,sarapan,negatif
+bangunan hotel baik,fasilitas,positif
+hujan kamar rembes,kamar,negatif
+staff perlu diberi pelatihan sedikit,pelayanan,negatif
+harga mahal membuat kantong jebol,harga,negatif
+menu sarapan enak variasi,sarapan,positif
+bayar tidak_termasuk sarapan,harga,negatif
+suka sama lokasi,lokasi,positif
+harga makanan tidak_bersahabat,harga,negatif
+hotel cocok acara wedding ulang_tahung gathering,fasilitas,positif
+interior kamar bagus penataan modern,kamar,positif
+menu sahur enak,sarapan,positif
+perbaiki gym center kolam_renang,fasilitas,negatif
+harga masih oke,harga,positif
+sarapan biasa,sarapan,negatif
+amenities ada pencukur kumis,kamar,positif
+alat_mandi hanya dapat satu sabun,kamar,negatif
+datang tidak_sambut,pelayanan,negatif
+kamar cukup nyaman luas,kamar,positif
+lingkungan asri penuh pepohonan,fasilitas,positif
+naik shuttle bandara harus bayar lima_ribu,harga,negatif
+jalan masuk sempit mobil,lokasi,negatif
+waktu checkin kamar lama menunggu,pelayanan,negatif
+kotak tempat taruh kunci menyalakan listrik tidak_otomatis,kamar,negatif
+hidangan nikmat dihidangkan hangat,sarapan,positif
+sprei selimut tidak_diganti,kamar,negatif
+ac lama dingin tiga_puluh menit,kamar,negatif
+kamar_mandi cukup bagus bersih kondisi shower baik,kamar,positif
+kamar bangsal bau fasilititas usang rusak,kamar,negatif
+lokasi buruk menggunakan mobil,lokasi,negatif
+tidak_ada exhaust,kamar,negatif
+staff tidak_memakai sepatu,pelayanan,negatif
+rugi bayar mahal,harga,negatif
+menu sarapan pelit,sarapan,negatif
+harga baik murah sesuai,harga,positif
+suasana asri,fasilitas,positif
+hotel berada lokasi sulit diketahui,lokasi,negatif
+desain kamar minimalis sederhana,kamar,positif
+oke harga dua_ratus_ribu,harga,positif
+lokasi dekat itc bantu perjalanan bisnis,lokasi,positif
+setiap butuh langsung secepatnya disiapkan pihak hotel,pelayanan,positif
+kualitas kamar kamar_mandi tidak_nyaman,kamar,negatif
+jauh tempat_kuliner,lokasi,negatif
+lobi panas,fasilitas,negatif
+dekat pusat_kota,lokasi,positif
+ada menu gudeg khas jogja,sarapan,positif
+memiliki desain interior eksterior cantik,fasilitas,positif
+ruang_rapat nyaman,fasilitas,positif
+harga mahal tidak_sesuai,harga,negatif
+staff ramah selalu mengingatkan prokes memakai masker,pelayanan,positif
+jalan satu arah mau tidak_mau harus lewat kemacetan,lokasi,negatif
+hotel nyaman strategis,lokasi,positif
+layanan hebat staff,pelayanan,positif
+tidak_ada staff bantu menurunkan barang,pelayanan,negatif
+susu basi,sarapan,negatif
+satpam tidak_ramah,pelayanan,negatif
+hotel luas nuansa candi,fasilitas,positif
+makanan menu komposisi tidak_pas,sarapan,negatif
+pemandangan lumayan bagus,lokasi,positif
+hotel tengah perumahan balik bukit suasana adem tentram,lokasi,positif
+staff membantu mencari lokasi meja kosong,pelayanan,positif
+wifi tidak_bisa diakses,fasilitas,negatif
+bangunan usang,fasilitas,negatif
+bau kamar harus bikin tidur nyaman,kamar,positif
+suara cafe terlalu keras,sarapan,negatif
+coba mengikuti petunjuk maps tidak_akurat,lokasi,negatif
+posisi hotel berada komplek perumahan dalam,lokasi,negatif
+area lobi gelap,fasilitas,negatif
+pindah kamar dapat upgrade,pelayanan,positif
+colokan hanya satu bawah tv,kamar,negatif
+sesuai harga ramah_kantong pelancong,harga,positif
+salut respon cepat satpam,pelayanan,positif
+makanan atas ekspektasi,sarapan,positif
+interior kamar minimalis unik,kamar,positif
+early_checkin ada tambahan_biaya,harga,negatif
+front_office tidak_dua_empat_jam,pelayanan,negatif
+tidak_ada handuk keset,kamar,negatif
+kamar_mandi ada cacing kelabang,kamar,negatif
+suasana nyaman sejuk mengurangi polusi,lokasi,positif
+kamar tidak_kedap_suara,kamar,negatif
+suasana asik,lokasi,positif
+dekat tugu,lokasi,positif
+referensi resort cocok liburan pas kantong,harga,positif
+dapat harga murah pakai voucher,harga,positif
+enak roti gandum,sarapan,positif
+harga mahal tidak_sesuai porsi rasa,harga,negatif
+menawarkan beragam pilihan anggur ceruutu intenasional,sarapan,positif
+ballroom luas cocok acara konser ulang_tahun acara besar,fasilitas,positif
+tempat_tidur nyaman mandi air_hangat,kamar,positif
+harga online lebih_murah,harga,positif
+sarapan banyak variasi menu masakan jawa pecel soto lauk,sarapan,positif
+saran tambah roti kue tradisional jogja,sarapan,negatif
+hotel bintang_empat tergolong murah,harga,positif
+maintenance hotel baik,fasilitas,positif
+air kolam_renang hijau kotor,fasilitas,negatif
+furniture kamar tua beberapa berlubang,kamar,negatif
+pelayanan tidak_memuaskan,pelayanan,negatif
+harga murah hotel baik,harga,positif
+bukan_daerah macet,lokasi,positif
+enak,sarapan,positif
+staff bagian depan baik responsif,pelayanan,positif
+lama menungu refill makanan,pelayanan,negatif
+checkin memuaskan,pelayanan,positif
+gratis parkir,harga,positif
+secara harga hotel serupa lebih_murah dibanding hotel terbaik kelasnya,harga,negatif
+minta kasur bilang penuh padahal hotel sepi,pelayanan,negatif
+dekat tempat bersejarah dekat stasiun,lokasi,positif
+respon ditelepon cepat tanggap,pelayanan,positif
+kamar_mandi bersih ada air_hangat,kamar,positif
+cincin ketinggalan ternyata disimpan pihak hotel aman,pelayanan,positif
+shower kecil tidak_panas,kamar,negatif
+parkir basement cukup sempit,fasilitas,negatif
+nyaman kasur,kamar,positif
+ruangan kamar bagus nuansa klasik eropa,kamar,positif
+harga segitu,harga,positif
+interior kamar banyak lampu mati,kamar,negatif
+fasilitas hotel jauh dibayangkan,fasilitas,negatif
+karpet kotor debu tebal,kamar,negatif
+pelayanan keramahan staff baik,pelayanan,positif
+lokasi dekat pusat keramaian,lokasi,positif
+tarif tidak_ekonomis,harga,negatif
+tea_maker harus sewa,harga,negatif
+harga terbilang murah adanya potongan,harga,positif
+resepsionis pria tidak_ramah,pelayanan,negatif
+dekat pom_bensin atm superindo alfa indomart apotik pasar_tradisional,lokasi,positif
+sesuai harga dapat sarapan,harga,positif
+pengelola ramah baik,pelayanan,positif
+menunggu refill makanan lama,pelayanan,negatif
+hotel tidak_ada tangga jalan koper,fasilitas,negatif
+handuk tidak_ada,kamar,negatif
+suka kolam_renang air_hangat,fasilitas,positif
+eskrim ada sarapan,sarapan,positif
+tembok toilet keluar air tembok,kamar,negatif
+resepsionis menjawab cek nyatanya tidak_cek,pelayanan,negatif
+alat gym perlu perbaikan peremajaan,fasilitas,negatif
+lokasi langsung dapat dicapai mudah menggunaakn waze,lokasi,positif
+staff tidak_ramah tidak_paham sop,pelayanan,negatif
+kapasitas lift kecil,fasilitas,negatif
+ada informasi city tour bantu,pelayanan,positif
+laundry murah,harga,positif
+lokasi dekat destinasi favorit,lokasi,positif
+harga tidak_ramah_kantong mahal,harga,negatif
+handuk gelas steril dibungkus plastik,kamar,positif
+makanan enak nasi rames bubur_ayam omelet buah puding roti,sarapan,positif
+kamar_mandi lapang,kamar,positif
+makanan sedikit cepat habis,sarapan,negatif
+harga sewa unit kamar mahal,harga,negatif
+lobi disuguhkan suara gamelan,fasilitas,positif
+hotel tidak_seperti digambar dalam foto,fasilitas,negatif
+makanan hotel acungi top,sarapan,positif
+hotel gelap seram,fasilitas,negatif
+kolam_renang kecil tidak_memiliki pemandangan bagus,fasilitas,positif
+ada sofa meja kerja tv mini bar,kamar,positif
+cocok istirahat santai tenang,lokasi,positif
+sky bar cenderung sepi,fasilitas,positif
+lorong bau rokok,fasilitas,negatif
+jendela kamar rusak tidak_bisa dibuka,kamar,negatif
+staff tanggap,pelayanan,positif
+spaghetti jam delapan habis tidak_refill,pelayanan,negatif
+hotel tidak_sesuai harga,harga,negatif
+kamar hotel bagus nuansa jawa,kamar,positif
+ada kulkas ac tv brankas hair_dryer,kamar,positif
+ada grab wheel,fasilitas,positif
+makanan tidak_enak,sarapan,negatif
+memperlakukan tindakkan pengusiran layaknya mengusir binatang cara mendorong,pelayanan,negatif
+menu monoton,sarapan,negatif
+lokasi sulit ditemukan,lokasi,negatif
+harga tidak_termasuk amenities alat_mandi air_mineral,harga,negatif
+makanan sarapan tidak_gambar tidak_bumbu hambar,sarapan,negatif
+bayar harga parkir harian,harga,negatif
+kolam_renang bau kaporit,fasilitas,negatif
+air_panas dingin berfungsi baik,kamar,positif
+kolam_renang area asri rimbun,fasilitas,positif
+bisa minta pemandangan gunung,pelayanan,positif
+pemandangan indah,lokasi,positif
+kolam_renang tutup,fasilitas,negatif
+akses kota jauh,lokasi,negatif
+air kamar_mandi kuning,kamar,negatif
+wifi tidak_gratis harus bayar,harga,negatif
+lorong hotel ada sisa piring tidak_dibersihkan,pelayanan,negatif
+masuk lobi suasana megah mewah kental wangi tradisional,fasilitas,positif
+tidak_enak pelayanan,pelayanan,negatif
+satpam tidak_berpikir kreatif tidak_pintar tidak_mengatur bijak,pelayanan,negatif
+sarapan banyak enak,sarapan,positif
+lokasi strategis dekat pom_bensin dekat jalan_utama dekat tempat_wisata jogja,lokasi,positif
+makanan enak banyak pilihan indian_food siomay jepang,sarapan,positif
+setiap kamar ada pembuat kopi,kamar,positif
+lokasi terpencil,lokasi,negatif
+lokasi rawan macet cukup parah,lokasi,negatif
+dessert enak,sarapan,positif
+menu tidak_ada jus,sarapan,negatif
+harga hanya seratus_ribu,harga,positif
+kebersihan kamar baik,kamar,positif
+sarapan tidak_ada pilihan kemanisan,sarapan,negatif
+penerima tamu perlu belajar tata_krama,pelayanan,negatif
+suasana rumahan ada taman kolam_ikan pohon,fasilitas,positif
+lantai kamar kuno tidak_ada karpet,kamar,negatif
+harga terjangkau,harga,positif
+lokasi tepat setelah pintu masuk arah kampung daun,lokasi,positif
+parkir luas aman dua_empat_jam,fasilitas,positif
+fasilitas kamar lengkap mulai bathtub hair_dryer brankas kulkas lemari heater sandal handuk,kamar,positif
+tempat istirahat nyaman backpacker,harga,positif
+layanan telepon cepat,pelayanan,positif
+banyak hotel bintang_lima harga lebih_murah,harga,negatif
+kecewa awal checkin tidak_sesuai pesanan,pelayanan,negatif
+ada swalayan besar berjarak lima menit jalan_kaki,lokasi,positif
+lorong kamar gelap,kamar,negatif
+sesi foto kawasan hotel bayar tujuh_ratus_ribu,harga,negatif
+ac kamar enak dingin desain kamar unik,kamar,positif
+proses refill makanan lambat,pelayanan,negatif
+tambah papan petunjuk jalan,fasilitas,negatif
+shower rusak toilet kotor ada bercak darah,kamar,negatif
+makanan perlu variasi,sarapan,negatif
+staff bersahabat membantu,pelayanan,positif
+tempat strategis,lokasi,positif
+letak hotel jauh malioboro,lokasi,negatif
+hotel luar tampak kecil,fasilitas,negatif
+sarapan ambil sepuasnya,sarapan,positif
+kamar kedap_suara,kamar,positif
+hotel pelayanan buruk,pelayanan,negatif
+sajian melimpah western tradisional,sarapan,positif
+nyaman relaks jauh bising,lokasi,positif
+tempat bermain anak memadai,fasilitas,positif
+parkir harus diperluas,fasilitas,negatif
+kamar luas ukuran hotel desain unik,kamar,positif
+menu variatif setiap_hari ganti,sarapan,positif
+iklan traveloka murah,harga,positif
+bayar lima_ribu web bandara shuttle,harga,negatif
+banyak wallpaper kamar terkelupas,kamar,negatif
+harga terjangkau termasuk sarapan,harga,positif
+tempat_parkir banyak,fasilitas,positif
+perabotan kamar perlu diperbarui,kamar,negatif
+ada lapangan golf luas,fasilitas,positif
+kamar_mandi berkarat berlumut,kamar,negatif
+kolam_renang kecil,fasilitas,negatif
+ada tambahan_biaya,harga,negatif
+harga turun,harga,positif
+telepon meja mati,kamar,negatif
+pelayanan ramah luar_biasa,pelayanan,positif
+hotel murah,harga,positif
+kamar ada tempat jemur pakaian balkon,kamar,positif
+overprice fasilitas seperti itu,harga,negatif
+variasi termasuk minuman jamu disukai orang tua,sarapan,positif
+suasana sekitar nyaman,lokasi,positif
+bantal bau,kamar,negatif
+hotel pelayanan tidak_pelatihan,pelayanan,negatif
+lokasi jauh jalan_raya banyak anak tangga sebelum sampai hotel,lokasi,negatif
+harga mahal overprice,harga,negatif
+lobi panas ac tidak_terasa kamar_mandi umum panas,kamar,negatif
+disediakan menu makanan sehat,sarapan,positif
+harga bayar langsung lebih_murah,harga,positif
+memiliki mesin kopi dolce gusto,sarapan,positif
+sayang sarapan harus bayar,harga,negatif
+booking via promo murah,harga,positif
+lokasi sulit dijangkau masuk dalam komplek perumahan jalan rusak,lokasi,negatif
+pelayanan staff reto sarapan lambat refill makanan minuman habis,pelayanan,negatif
+lift bau apek,fasilitas,negatif
+harga parkir dibebankan customer,harga,negatif
+begitu mandi air keruh,kamar,negatif
+harga sesuai,harga,positif
+ada diskon khusus tamu,harga,positif
+jalan lokasi sulit,lokasi,negatif
+harga tidak_sesuai promo,harga,negatif
+lantai kena tinta harus bayar denda,harga,negatif
+nasi sushi lembek tidak_enak,sarapan,negatif
+halaman depan tidak_nyaman parkir,fasilitas,negatif
+kasur bantal empuk,kamar,positif
+tempat tersembunyi sulit dicari,lokasi,negatif
+berkesan hotel pelayanan terutama pelayanan resto,pelayanan,positif
+konsep keren jawa modern,fasilitas,positif
+harga bawah standar,harga,positif
+mahal dibandingkan fasilitas minim didapatkan,harga,negatif
+asik makanan enak,sarapan,positif
+sarapan tidak_enak,sarapan,negatif
+hotel besar konsep resort,fasilitas,positif
+sesuai kantong,harga,positif
+banyak semut kamar banyak makanan meja,kamar,negatif
+letak cukup jauh masuk dalam gang sempit,lokasi,negatif
+hotel bagus nyaman suka kolam_renang bagus,fasilitas,positif
+fasilitas minim pintu ditempel stiker jaminan bank,fasilitas,negatif
+mie laksa tidak_sesuai standar,sarapan,negatif
+tidak_ada arah petunjuk jalan,fasilitas,negatif
+nuansa bali,fasilitas,positif
+sarapan juara,sarapan,positif
+tombol lift tidak_berfungsi,fasilitas,negatif
+menarik harga murah,harga,positif
+alat_makan kotor,sarapan,negatif
+kopi teh pop mie gratis,harga,positif
+sarapan sedikit variasi,sarapan,negatif
+tempat terletak agak jauh ubud_center,lokasi,negatif
+banyak kotoran binatang bawah tempat_tidur,kamar,negatif
+tengkleng kuah tidak_panas tidak_segar,sarapan,negatif
+pelayanan peduli,pelayanan,positif
+hotel agak masuk tidak_ada papan petunjuk jelas,lokasi,negatif
+dekat area masjid alun_alun bandung lokasi strategis,lokasi,positif
+fasilitas hotel secara umum baik,fasilitas,positif
+harga murah kelasnya,harga,positif
+pelayanan ramah menerapkan prokes ketat,pelayanan,positif
+gratis andong keliling,harga,positif
+dari bandara soeta jalan putar hotel jauh,lokasi,negatif
+ada gratis snack,harga,positif
+staff hotel ramah bantu,pelayanan,positif
+makanan bersih,sarapan,positif
+sky bar kolam_renang area publik instagrammable,fasilitas,positif
+menu sarapan tidak_memuaskan,sarapan,negatif
+meminjam mukena diantar cepat,pelayanan,positif
+kamar ada fasilitas mini_dapur microwave kulkas kompor_listrik komplit,kamar,positif
+pelayanan cepat ramah baik,pelayanan,positif
+sayuran hanya ada buncis pedas tidak_ada brokoli,sarapan,negatif
+ada staff tiba_tiba masuk,pelayanan,negatif
+pelayanan baik cepat tanggap,pelayanan,positif
+toilet hotel tempat driver kotor menjijikan,fasilitas,negatif
+tekanan shower lambat,kamar,negatif
+anggaran minimalis,harga,positif
+hotel memakai protokol keamanan baik,fasilitas,positif
+deket masjid fenomenal masjid jogokarian,lokasi,positif
+satpam pilih kasih naik mobil tidak_dipersika naik motor butut diperiksa tidak_perlu pilih kasih,pelayanan,negatif
+pas termasuk murah termasuk sarapan,harga,positif
+makanan bawa anak ada tambahan_biaya,harga,negatif
+terletak pinggir sungai jauh kemana_mana,lokasi,negatif
+ketinggalan barang ada telepon,pelayanan,positif
+kamar bersih ac dingin,kamar,positif
+staff baik meminjamkan tikar,pelayanan,positif
+sarung bantal bau,kamar,negatif
+desain interior hotel minimalis instagrammable,fasilitas,positif
+menu sarapan seadanya,sarapan,negatif
+sarapan variasi pilihan makanan indonesia,sarapan,positif
+pancuran kamar_mandi perlu diperbaiki,kamar,negatif
+dekat tugu jogja,lokasi,positif
+staff cepat cekatan,pelayanan,positif
+lokasi pinggir_jalan,lokasi,positif
+pemandangan memanjakan mata,lokasi,positif
+kebersihan kamar kamar_mandi diperhatikan,kamar,positif
+proses checkin lama setengah jam,pelayanan,negatif
+kamar_mandi lucu,kamar,positif
+jalan area parkir belokan tajam sempit,fasilitas,negatif
+tidak_sangka menu makanan enak,sarapan,positif
+hijau terawat pohon pohon beringin tua kokoh berdiri,fasilitas,positif
+upgrade bayar seratus_lima_puluh_ribu tidak_sesuai,harga,negatif
+makanan enak,sarapan,positif
+lokasi sedikit jauh pusat_kota,lokasi,negatif
+wastafel mampet,kamar,negatif
+kecoa bermunculan naik meja samping,kamar,negatif
+tempat_sampah ada satu kamar_mandi,kamar,negatif
+sarapan menemukan semut roti kue,sarapan,negatif
+air_mineral alat_mandi harus bayar tidak_termasuk harga kamar,harga,negatif
+ramah senang pelayanan,pelayanan,positif
+pelayanan luar_biasa cekatan,pelayanan,positif
+menu sarapan diganti nasi_kotak tidak_pantas,sarapan,negatif
+lift lama,fasilitas,negatif
+amenities malah harus bayar,harga,negatif
+sarapan hanya nasi_kotak,sarapan,negatif
+keluar mencari makanan akses jalan jauh,lokasi,negatif
+hotel berkelas sesuai harga,harga,positif
+sarapan staff sesuai prokes,pelayanan,positif
+bawa mobil bayar harga jaga,harga,negatif
+tempat dekat indomaret,lokasi,positif
+hanya kerupuk enak lainnya zonk,sarapan,negatif
+staff ramah aspiratif,pelayanan,positif
+kualitas sound system rusak membuat mood tidak_nyaman,fasilitas,negatif
+strategis nyaman,lokasi,positif
+pembersihan kamar harian tidak_ada,pelayanan,negatif
+staff front_office tidak_senyum,pelayanan,negatif
+petunjuk jalan tempat masuk tidak_terlihat,fasilitas,negatif
+kamar seperti lama tidak_ditempati,kamar,negatif
+kolam_renang hijau lumut tidak_terawat,fasilitas,negatif
+akses jalan kecil,lokasi,negatif
+harga tidak_kuras kantong,harga,positif
+air_panas oke,kamar,positif
+semua staff memiliki pelayanan baik semangat tinggi,pelayanan,positif
+jalan masuk hotel kecil sulit,lokasi,negatif
+rooftop juara waktu sunset bagus,fasilitas,positif
+dikenakan tambahan_biaya tanpa_kasur tujuh_lima_ribu,harga,negatif
+pelayanan staff oke,pelayanan,positif
+bantal selimut banyak rambut,kamar,negatif
+akses dekat monas plaza,lokasi,positif
+checkin lama menunggu kamar dibersihkan,pelayanan,negatif
+pass wifi tidak_diberi minta resepsionis,pelayanan,negatif
+staff bodoh,pelayanan,negatif
+hotel ada kolam pasir,fasilitas,positif
+jalan menuju hotel tolong diperhalus,lokasi,negatif
+sarapan ada menu dagingnya,sarapan,positif
+hanya ada tempat_parkir outdoor,fasilitas,negatif
+pelayanan staff hotel memuaskan,pelayanan,positif
+banyak tempat foto instagrammable,fasilitas,positif
+parkir motor sempit tidak_ada atap,fasilitas,negatif
+hotel cukup murah terjangkau,harga,positif
+akses enak,lokasi,positif
+ada menu angkringan ronde bakar tertarik sate,sarapan,positif
+akses menuju lokasi wisata jauh,lokasi,negatif
+kolam kecil buruk,fasilitas,negatif
+tempat olahraga bersih,fasilitas,positif
+prokes baik handsanitizer dimana_mana,fasilitas,positif
+kamar penataan baik dilengkapi peralatan masak,kamar,positif
+tidak_ada pendingin ruangan,kamar,negatif
+sempit jalurnya,lokasi,negatif
+jalan menuju lokasi cukup berat menanjak atas,lokasi,negatif
+petunjuk parkir tidak_jelas,fasilitas,negatif
+kamar ada sofa panjang,kamar,positif
+lokasi pinggir_jalan_utama,lokasi,positif
+kasur kaki bawah mudah copot,kamar,negatif
+tidak_ada saluran_tv anak,kamar,negatif
+perjalanan bandara lama,lokasi,negatif
+tidak_ada mobil golf,fasilitas,negatif
+kamar_mandi toilet terpisah bagus,kamar,positif
+kamar oke wangi,kamar,positif
+harga tidak_sesuai ditawarkan,harga,negatif
+checkin lancar cepat,pelayanan,positif
+kebersihan balkon kamar_mandi harus ditingkatkan,kamar,negatif
+pelayanan oke,pelayanan,positif
+letak agak jauh jalan malioboro,lokasi,negatif
+akses jalan menuju lokasi mohon perbaiki lagi,lokasi,negatif
+ada nuansa tradisional,fasilitas,positif
+ada balkon setiap kamar menghadap kolam_renang,kamar,positif
+staff pelayanan tidak_sopan tidak_ajar,pelayanan,negatif
+tempat_parkir kecil,fasilitas,negatif
+tidak_ada tangga darurat,fasilitas,negatif
+lokasi dekat resto hits,lokasi,positif
+pemandangan sky bar cantik,fasilitas,positif
+lokasi dekat pusat_kota,lokasi,positif
+setiap tamu dimention nama merasa dihargai pihak staff hotel ramah membantu,pelayanan,positif
+suara kamar tidak_kedap_suara sebelah terdengar,kamar,negatif
+harga ramah_kantong didapat sesuai,harga,positif
+menginap mendapat promo,harga,positif
+amenities harus bayar tidak_gratis,harga,negatif
+ada staff bantu mengarahkan tempat_parkir penuh,pelayanan,positif
+mantap pelayanan nyaman,pelayanan,positif
+alat_makan disuruh bayar,harga,negatif
+hotel sesuai anggaran,harga,positif
+kamar ada ruang_tamu sofa ruang_makan kulkas microwave cangkir teko,kamar,positif
+koridor seperti kos,fasilitas,negatif
+senang hotel nuansa alam rekomendasi,fasilitas,positif
+debu jendela kamar,kamar,negatif
+sarapan istri ditagih tambahan_biaya,harga,negatif
+harga mahal tidak_termasuk sarapan,harga,negatif
+pertama pelayanan awal kurang,pelayanan,negatif
+tempat_parkir mobil tidak_ada sulit menurunkan barang,fasilitas,negatif
+sarapan luar_biasa,sarapan,positif
+lantai kamar licin seperti dipel detergen,kamar,negatif
+pihak hotel memberi kompensasi upgrade_kamar,pelayanan,positif
+makanan lauk sedikit,sarapan,negatif
+kamar bersih harum,kamar,positif
+sarapan variasi mantap rasa,sarapan,positif
+menu tradisional jawa sunda,sarapan,positif
+billiard murah mursidah,harga,positif
+resepsionis bantu,pelayanan,positif
+ranjang empuk,kamar,positif
+lingkungan tentram,lokasi,negatif
+sate enak,sarapan,positif
+mendapat harga murah,harga,positif
+hotel harga bersahabat,harga,positif
+kamar hotel bersih kasur luas lapang fasilitas lengkap,kamar,positif
+lebih diperhatikan kebersihan toilet dekat kolam_renang,fasilitas,negatif
+sajian menu khas nusantara patut dipuji,sarapan,positif
+cocok perjalan singkat minim anggaran,harga,positif
+steak enak enak mantap,sarapan,positif
+tidak_membuat kantong kering,harga,positif
+hotel panas,fasilitas,negatif
+kaget harus menambah harga sarapan,harga,negatif
+denda gelas seratus_ribu,harga,negatif
+lokasi pedesaan terisolasi jarang tempat hiburan sekitar hotel,lokasi,negatif
+tisu kamar_mandi kamar habis,kamar,negatif
+makanan minuman variasi ada alkohol non_alkohol,sarapan,positif
+tidak_ada tv kamar_utama disayangkan,kamar,negatif
+dekat stasiun terganggu bunyi kereta malam_hari,lokasi,negatif
+kamar kena tarif deluxe ternyata diberi superior,harga,negatif
+kunci kamar diberi satu,kamar,negatif
+olahan menu makan_malam enak perpaduan tradisional modern,sarapan,positif
+rasa masakan perlu diperhatikan tidak_rasa,sarapan,negatif
+sarapan tidak_banget hanya nasi putih tahu sayur urap peyek,sarapan,negatif
+harga pas sesuai backpacker,harga,positif
+lokasi strategis banyak warung makan muslim sekitar harga murah,lokasi,positif
+harga jual kamar hotel tinggi,harga,negatif
+pelayanan tidak_menyenangkan tamu menunggu lama,pelayanan,negatif
+pelayanan tempat_makanan baik,pelayanan,positif
+lobi depan lift bocor,fasilitas,negatif
+menu sarapan nasi_kuning porsi kecil,sarapan,negatif
+kamar ditata efisien,kamar,positif
+kasur hanya matras keras,kamar,negatif
+interior mewah,fasilitas,positif
+makanan tidak_ada kepastian bercampur halal non_halal,sarapan,negatif
+tempat sarapan luas tersedia coffee_shop,sarapan,positif
+letak hotel enak bukan_daerah macet,lokasi,positif
+hotel tidak_ada genset,fasilitas,negatif
+dekat ringroad dekat pasar prawitotaman dekat spbu masjid jogokaryan fenomenal,lokasi,positif
+ada bar hadap kolam_renang cantik,fasilitas,positif
+toilet driver hotel tidak_banyak,fasilitas,negatif
+kamar_mandi tidak_nyaman bathtub bikin becek lantai,kamar,negatif
+kamar lengkap balkon,kamar,positif
+jogging_track dikelilingi lapangan golf,fasilitas,positif
+rasa makanan biasa cenderung hambar tidak_ada rasa,sarapan,negatif
+staff ramah informatif,pelayanan,positif
+petunjuk arah kiblat kamar tidak_ada,kamar,negatif
+kolam_renang luas ada kid_kolam_renang,fasilitas,positif
+prokes setiap_jam ada penyemprotan khusus,fasilitas,positif
+harga cenderung tinggi,harga,negatif
+hotel bintang klasik elegan,fasilitas,positif
+harga relatif mahal,harga,negatif
+sarapan monoton,sarapan,negatif
+tidak_ada staff menolong,pelayanan,negatif
+sarapan seadanya,sarapan,negatif
+suasana hotel tenang,lokasi,positif
+oseng buntut rekomendasi,sarapan,positif
+sarapan tidak_disiapkan alasan tidak_ada pesanan,pelayanan,negatif
+banyak hiasan mural setiap kamar,kamar,positif
+cari makanan sekitar hotel sulit,lokasi,negatif
+ada staff hotel siap bantu vallet_parking,pelayanan,positif
+ada jogging_track,fasilitas,positif
+lokasi ujung masuk jalan kecil,lokasi,negatif
+makanan kosong terlambat refill sarapan makan_siang,pelayanan,negatif
+tidak_privasi terutama kamar_mandi,kamar,negatif
+menu makanan cukup enak,sarapan,positif
+makanan murah sekeliling hotel,lokasi,positif
+aneh ramah seperti dipaksakan,pelayanan,negatif
+keramahan staff baik,pelayanan,positif
+makan tidak_prasmanan,sarapan,negatif
+roti kukusnya enak,sarapan,positif
+hotel klasik interior megah berasa royal,fasilitas,positif
+checkin tidak_jelas antre panjang,pelayanan,negatif
+akses kamar parkir agak sulit,fasilitas,negatif
+kue makanan enak,sarapan,positif
+lokasi masuk sulit bawa kendaraan,lokasi,negatif
+lokasi masuk gang mobil sulit masuk bahkan naik taxi sulit masuk,lokasi,negatif
+yoghurt tidak_segar,sarapan,negatif
+dinding kamar lembab,kamar,negatif
+kamar_mandi kran bocor kotor,kamar,negatif
+melayani tidak_hati,pelayanan,negatif
+pelayanan makan lama pesan gorengan satu jam,pelayanan,negatif
+kolam_renang banyak kaporit,fasilitas,negatif
+tidak_ada handuk,kamar,negatif
+pulang ditagih parkir lima_ribu,harga,negatif
+tempat strategis dalam kota jogja,lokasi,positif
+hotel rekomendasi backpacker,harga,positif
+kamar tidak_berkarpet,kamar,negatif
+resepsionis lemot,pelayanan,negatif
+ac kuno,kamar,negatif
+tempat sendok garpu kotor kelihatan kotor,sarapan,negatif
+ada kulkas water_heater lengkap kopi teh,kamar,positif
+lampu dapur kamar rusak berkedip,kamar,negatif
+sulit cari tempat,lokasi,negatif
+makan_malam rooftop suasana romantis tenang,sarapan,positif
+mbak mas ramah,pelayanan,positif
+desain interior kamar bagus,kamar,positif
+aktivitas anak hanya kolam_renang,fasilitas,negatif
+harga kamar murah sesuai,harga,positif
+desain hotel tidak_asal,fasilitas,positif
+harga satu juta ekspektasi ada kelebihan lain,harga,negatif
+satpam tidak_sigap tidak_bantu menyebrang jalan,pelayanan,negatif
+harga terjangkau sesuai fasilitas berikan,harga,positif
+wifi bisa lebih kencang,fasilitas,negatif
+kamar luas living_room kasur terpisah,kamar,positif
+jalan menuju lokasi batu kasar belum_aspal,lokasi,negatif
+pelayanan oke mudah,pelayanan,positif
+sarapan tinggal ambil sesuka hati,sarapan,positif
+bingung masuk lokasi,lokasi,negatif
+lokasi dekat jalan_utama,lokasi,positif
+fasilitas lengkap terutama kolam_renang asri menjadi alasan utama orang tertarik menginap hotel,fasilitas,positif
+tambah staff parkir basemant,pelayanan,negatif
+cari lokasi perlu teliti,lokasi,negatif
+ada spaghetti singapore keren,sarapan,positif
+banyak pepohonan nuansa alami,fasilitas,positif
+parkir motor jauh,fasilitas,negatif
+kecewa teh panas tidak_enak,sarapan,negatif
+nyaman dekat masjid jogokariyan,lokasi,positif
+kolam_renang tidak_ada air_panas,fasilitas,negatif
+kamar nyaman kamar_mandi bersih,kamar,positif
+harga hotel tidak_pas kantong,harga,negatif
+lift tidak_ada ac,fasilitas,negatif
+prokes oke pas ada acara disana,fasilitas,positif
+pilihan menu set american continental tradisional,sarapan,positif
+lokasi dekat kuburan,lokasi,negatif
+ada hair_dryer setrika,kamar,positif
+lengkap pilihan jamu jamu segar,sarapan,positif
+ac bocor bersuara keras,kamar,negatif
+tidak_nyaman banyak kecoa kecil kecoa jerman lewat setiap_saat,kamar,negatif
+lokasi pinggir_jalan mudah ditemukan,lokasi,positif
+staff sigap ramah hangat menjadi kesan melekat,pelayanan,positif
+akses pusat_kota arah lembang mudah,lokasi,positif
+puas pelayanan,pelayanan,positif
+sound_system aula bagus,fasilitas,positif
+makanan rasa perlu tingkatkan,sarapan,negatif
+bau kamar apek,kamar,negatif
+sarapan variatif,sarapan,positif
+pelayanan bisa bahasa inggris,pelayanan,positif
+tempat bermain anak kurang,fasilitas,negatif
+antre lama,pelayanan,negatif
+hotel ada starbucks,fasilitas,positif
+ada air_panas air_dingin,kamar,positif
+kamar_mandi ada bercak lengket,kamar,negatif
+kekurangan tidak_ada keset kamar_mandi,kamar,negatif
+harga tidak_wajar,harga,negatif
+ac model kuno panas shower jet rusak heater lama panas,kamar,negatif
+citarasa makanan oke suka menu sego_luwuk,sarapan,positif
+harga cukup rendah murah,harga,positif
+tarif masih oke,harga,positif
+tim teknis cepat memperbaiki,pelayanan,positif
+lokasi nylempit,lokasi,negatif
+lengkap ada banyak menu indonesia,sarapan,positif
+lebih_baik hotel lain anggaran sama,harga,negatif
+jalan hotel padat,lokasi,negatif
+taman luas,fasilitas,positif
+dekat tempat_wisata,lokasi,positif
+staff keamanan tukang parkir tidak_menghormati tamu,pelayanan,negatif
+jauh pusat keramaian malioboro,lokasi,negatif
+harga murah tidak_mahal,harga,positif
+akses masuk hotel sulit gang sempit hanya cukup satu mobil,lokasi,negatif
+jarak dekat,lokasi,positif
+staff penuh perhatian,pelayanan,positif
+harga terbaik,harga,positif
+kolam_renang bersih ramah_anak,fasilitas,positif
+bell_boy tidak_ada,pelayanan,negatif
+terletak jalan jogokaryan berada meter masjid jogokaryan terkenal,lokasi,positif
+luas kamar bagus kelas delux kamar_mandi cukup,kamar,positif
+makanan variasi sampai bingung ambil mana,sarapan,positif
+menu sarapan biasa tidak_lengkap,sarapan,negatif
+jauh kota tidak_bisa kemana_mana,lokasi,negatif
+kamar disteril ditempel stiker segel,kamar,positif
+makanan resto oke enak,sarapan,positif
+ada handuk lap tangan,kamar,positif
+kotor kamar tidak_dibersihkan bawah kasur banyak sampah,kamar,negatif
+bapak satpam ramah,pelayanan,positif
+keren harga segitu,harga,positif
+staff responsif,pelayanan,positif
+sarapan setengah_sembilan banyak makanan habis,sarapan,negatif
+terletak tengaj perumahan aksesbilitas sulit,lokasi,negatif
+mahal kelas hostel,harga,negatif
+hair_dryer rental sewa bayar tiga_lima_ribu,harga,negatif
+resepsionis sering tidak_ada,pelayanan,negatif
+parkir mobil luas,fasilitas,positif
+kamar bunyi tikus,kamar,negatif
+wifi lemot tidak_bisa dipakai,fasilitas,negatif
+tidak_ada lift harus manual naik tangga,fasilitas,negatif
+makanan ada resto bervariasi,sarapan,positif
+hanya sarapan tidak_enak,sarapan,negatif
+shower berfungsi baik,kamar,positif
+petunjuk jalan nama hotel kecil,fasilitas,negatif
+hanya kolam_renang kecil,fasilitas,negatif
+ruang sauna kecil campur cowok cewek,fasilitas,negatif
+akses jalan sempit bawa mobil,lokasi,negatif
+protokol covid diutamakan,fasilitas,positif
+banyak spot foto,fasilitas,positif
+dapat bathtub,kamar,positif
+kolam_renang tidak_seperti bayangkan,fasilitas,negatif
+sprei ada noda minyak,kamar,negatif
+kamar wow bersih,kamar,positif
+lokasi tidak_kondusif,lokasi,negatif
+peralatan fitness center cukup lengkap,fasilitas,positif
+pelayanan baik,pelayanan,positif
+tidak_sesuai harga dibayar,harga,negatif
+ac kamar rusak tidak_dingin,kamar,negatif
+mudah cari makan luar banyak jual makanan,lokasi,positif
+makanan enak bersih menu ganti setiap_hari,sarapan,positif
+mendapat kamar pemandangan diinginkan,kamar,positif
+hotel tua perlu renovasi,fasilitas,negatif
+waktu takjil buka_puasa makanan tidak_banyak pilihan,sarapan,negatif
+harga kamar ideal,harga,positif
+makanan tidak_enak tidak_niat,sarapan,negatif
+susu segar bau rasa basi,sarapan,negatif
+pelayanan perlu ditingkatkan,pelayanan,negatif
+lokasi baik suka foto,lokasi,positif
+makanan enak super lengkap mulai makanan indonesia sampai mancanegara,sarapan,positif
+awal datang resepsionis lama,pelayanan,negatif
+kecil kolam,fasilitas,negatif
+lokasi hotel gabung tempat perbelanjaan memberikan nilai_plus,lokasi,positif
+deposit mahal lima_ratus_ribu,harga,negatif
+sarapan oke harga segitu,sarapan,positif
+sarapan mahal,harga,negatif
+roti keras tidak_baru,sarapan,negatif
+harga minimalis murah,harga,positif
+agak jauh jalan ketika belanja,lokasi,negatif
+akses menuju kamar harus jalan_kaki menanjak,lokasi,negatif
+debu lampu tidur,kamar,negatif
+area parkir terbatas mobil,fasilitas,negatif
+tidak_maximal pelayanan,pelayanan,negatif
+prokes masa pandemi dilakukan disiplin,pelayanan,positif
+kasur tidak_diganti,kamar,negatif
+letak dekat malioboro deket kemana_mana,lokasi,positif
+hotel bau tidak_wangi,fasilitas,negatif
+prokes tidak_diterapkan,pelayanan,negatif
+staff resepsionis cukup ramah bantu proses checkin checkout,pelayanan,positif
+makanan variatif kids friendly,sarapan,positif
+staff sopan,pelayanan,positif
+harga kamar mahal,harga,negatif
+penginapan kebun_binatang banyak kecoa semut hewan kecil dalam kamar,kamar,negatif
+air kamar_mandi lancar,kamar,positif
+sarapan variatif rasa,sarapan,positif
+sewa bayar delapan_ribu handuk,harga,negatif
+pelayanan perhatian menanyakan bagaimana makanan sudah coba apa saja,pelayanan,positif
+staff jutek bentak_bentak marah,pelayanan,negatif
+jalan menuju hotel sempit berliku,lokasi,negatif
+tempat dekat pusat_kota tempat_wisata jogja,lokasi,positif
+makanan tidak_enak tidak_ada rasa,sarapan,negatif
+kamar besar ada bathtub ada sofa kasur,kamar,positif
+murah meriah bisa makan sepuasnya,harga,positif
+pelayanan kelas melati,pelayanan,negatif
+mudah diakses dikelilingi coffee_shop,lokasi,positif
+sarapan tidak_berwarna tidak_variasi tidak_seperti hotel bintang_tiga bintang_empat pada umumnya,sarapan,negatif
+jamu lengkap segar,sarapan,positif
+sinyal wifi hilang masuk kamar,fasilitas,negatif
+shower air_panas normal,kamar,positif
+banyak bekas bungkus kuaci,kamar,negatif
+kamar_mandi sempit,kamar,negatif
+sarapan bebas pilih menu,sarapan,positif
+staff lambat memberikan keluhan,pelayanan,negatif
+bangunan kamar kekinian,kamar,positif
+baik staff,pelayanan,positif
+hotel mahal sepuluh juta permalam,harga,negatif
+resto memiliki suasana adem banyak tanaman,sarapan,positif
+harga cukup sekelas hotel nyaman,harga,positif
+ada makanan overcooked kelebihan bumbu,sarapan,negatif
+meeting_point grab gofood jauh lobi,fasilitas,negatif
+uang tidak_ada kabar refund,pelayanan,negatif
+alat_makan disiapkan terpisah aman,sarapan,positif
+pemandangan bagus,lokasi,positif
+kamar kotor ada bungkus permen,kamar,negatif
+terbaik bisa dinikmati bisa lihat gunung_merapi kamar sendiri,lokasi,positif
+kamar_mandi dilengkapi bathtub bathsoap heat water hair_dryer lengkap,kamar,positif
+sarapan prasmanan anak ada tambahan_biaya,harga,negatif
+es jus hambar tidak_segar,sarapan,negatif
+shuttle_bus gratis,harga,positif
+masakan standar,sarapan,negatif
+alat pembuat kopi teh tidak_berfungsi,kamar,negatif
+harga cocok perjalanan backpacker,harga,positif
+pemandangan kolam_renang lihat sunset,fasilitas,positif
+makanan hanya pilih nasgor roti_bakar,sarapan,negatif
+pemesanan konfirmasi hotel baik minta extend kamar cepat efisien,pelayanan,positif
+ada anak kecoa prasmanan makanan,sarapan,negatif
+sarapan setiap_hari beda menu,sarapan,positif
+harga promo,harga,positif
+wifi lancar waktu tertentu putus sendiri,fasilitas,negatif
+kamar hotel suasana klasik simple ada bathtub,kamar,positif
+pelayanan ramah efisien,pelayanan,positif
+tempat_parkir lebih_baik diberi atap tidak_kehujanan,fasilitas,negatif
+makanan minuman habis,sarapan,negatif
+dekat cari makan banyak area hotel,lokasi,positif
+lokasi jauh sulit pergi kemana_mana cari kendaraan,lokasi,negatif
+hotel artistik dekorasi interior disajikan menarik,fasilitas,positif
+cocok anggaran_rendah,harga,positif
+resepsionis emosi,pelayanan,negatif
+kamar_mandi bersih air_panas ideal,kamar,positif
+sarapan tidak_memuaskan,sarapan,negatif
+tidak_senyum sapa salam seperti lainnya,pelayanan,negatif
+dekat stasiun pancol seberang mall paragon dekat tempat_kuliner enak,lokasi,positif
+cocok backpacker,harga,positif
+anak harus bayar tambahan_biaya makanan,harga,negatif
+saluran_tv sedikit kualitas gambar buruk seperti analog,kamar,negatif
+bangunan tua selot pintu rusak,fasilitas,negatif
+kamar_mandi ada kran bawah wudhu,kamar,positif
+tidak_rekomendasi pelancong,harga,negatif
+overprice bintang_dua harga delapan_ratus_ribu,harga,negatif
+dekat alun_alun_selatan,lokasi,positif
+masuk tidak_ada ucapan welcome,pelayanan,negatif
+sarapan semua enak,sarapan,positif
+ada area playground,fasilitas,positif
+harga hotel sama tambahan_biaya mahal tambahan_biaya,harga,negatif
+harga relatif murah,harga,positif
+hotel pusat_kota,lokasi,positif
+sarapan enak enak,sarapan,positif
+ekonomis hemat kantong,harga,positif
+sarapan minimalis kelas bintang_lima,sarapan,negatif
+staff satpam ob ramah tamu tidak_terkecuali,pelayanan,positif
+kamar_mandi tidak_terawat handuk kusam warna dekil putih,kamar,negatif
+suasana rumah tenang,lokasi,positif
+layanan berkualitas tinggi,pelayanan,positif
+minim tempat_parkir,fasilitas,negatif
+harga mahal tidak_bersahabat,harga,negatif
+kolam_renang banyak,fasilitas,positif
+hotel lama akses jalan dibiarkan,lokasi,negatif
+makanan mewah enak,sarapan,positif
+harga tidak_termasuk perlengkapan_mandi minum,harga,negatif
+arsitektur menarik,fasilitas,positif
+lokasi strategis depan jalan alfamart indomaret dekat hotel,lokasi,positif
+kamar minus tidak_ada kotak deposit brankas,kamar,negatif
+tempat_makan enak sarapan,sarapan,positif
+kamar luas nyaman kamar_mandi oke,kamar,positif
+satff tidak_profesional,pelayanan,negatif
+makanan sarapan tidak_enak hambar,sarapan,negatif
+pelayanan memberi salam papasan,pelayanan,positif
+pelayanan tidak_memuaskan satpam terang_terangan julid tamu depan keluarga,pelayanan,positif
+pilihan makanan beragam aneka takjil kurma jenang sup_buah jajanan_pasar,sarapan,positif
+sarapan disajikan tidak_segar,sarapan,negatif
+hotel area ruko belakang rs,lokasi,negatif
+keluhan ditangani baik,pelayanan,positif
+sopan tamu,pelayanan,positif
+letak dekat pusat_kota jogja,lokasi,positif
+tempat_parkir lobi cukup jauh,fasilitas,negatif
+lokasi asik dekat malioboro mall pasar bringharjo,lokasi,positif
+air melimpah,kamar,positif
+awal datang tidak_ada staff bantu angkat koper,pelayanan,negatif
+sarapan rasa standar,sarapan,negatif
+ada barang tertinggal checkout pihak hotel langsung wa foto barang tertinggal,pelayanan,positif
+hotel tengah_kota suasana desa,lokasi,positif
+ada wakeup pelayanan,pelayanan,positif
+kamar oke kasur empuk,kamar,positif
+tempat_parkir kecil,fasilitas,negatif
+satpam tidak_bisa mengatur mobil drop_off penumpang,pelayanan,negatif
+akomodasi ramah tengah kota dekat kawasan simpang_lima,lokasi,positif
+bisa keliling hotel pakai sepeda hotel,fasilitas,positif
+deposit dua juta,harga,negatif
+resto tutup tidak_menerima order sarapan,sarapan,negatif
+lokasi strategis jalan_besar mudah ditemukan,lokasi,positif
+ada bathtub air tidak_menggenang tidak_becek tidak_licin,kamar,positif
+lorong bau keluar lift tidak_ada fentilasi udara,fasilitas,negatif
+remote ac tidak_ada,kamar,negatif
+sarapan variatif ada jamu jus segar,sarapan,positif
+checkin checkout cepat mudah,pelayanan,positif
+harga kamar satu_juta tidak_sesuai,harga,negatif
+paling suka minuman tradisional jamu,sarapan,positif
+satu jam menunggu masuk kamar,pelayanan,negatif
+sesuai range harga,harga,positif
+pesan aplikasi harga terjangkau,harga,positif
+ada outdoor playground anak_kecil,fasilitas,positif
+penerangan kamar bagus,kamar,positif
+jalan_jalan mall terjangkau dekat,lokasi,positif
+sarapan bubur_ayam dingin,sarapan,negatif
+staff tidak_ramah datang tidak_sambut,pelayanan,negatif
+sarapan enak segar kualitas bahan menu lengkap,sarapan,positif
+layanan makanan tidak_termasuk harga sewa kamar,harga,negatif
+hotel kuno,fasilitas,negatif
+lokasi sulit putar putar cari hotel,lokasi,negatif
+bantal empuk,kamar,positif
+makanan ada mentah,sarapan,negatif
+akses mudah,lokasi,positif
+alat_mandi harus sewa,harga,negatif
+front_office tidak_mau terima saran terutama orang gendut,pelayanan,negatif
+tidak_sopan tidak_ramah pelayanan resepsionis,pelayanan,negatif
+handuk bekas dipakai tamu sebelum,kamar,negatif
+hotel terhubung mall,lokasi,positif
+sarapan prasmanan,sarapan,positif
+fasilitas olahraga minimalis kolam_renang kecil kecewa,fasilitas,negatif
+banyak kuliner murah sekitar hotel,lokasi,positif
+staff segera mengirim pengganti cepat,pelayanan,positif
+sarapan banyak variasi perut tidak_kuat coba,sarapan,positif
+lantai kamar debu,kamar,negatif
+pemandangan bagus arah kota,lokasi,positif
+resepsionis menyambut senyum ramah menyapa,pelayanan,positif
+dekat indomaret,lokasi,positif
+makanan enak tidak_mengecewakan,sarapan,positif
+harga relatif murah hotel sebaik itu,harga,positif
+menelpon resepsionis membantu,pelayanan,positif
+pelayanan mulai pengaturan parkir keluar masuk tidak_bantu,pelayanan,negatif
+wifi layak cukup cepat,fasilitas,positif
+makanan rasa datar,sarapan,negatif
+tidak_diskon,harga,negatif
+harga tidak_termasuk fasilitas tisu handuk keset,harga,negatif
+jalanan menuju parkir sempit hanya bisa dilewati satu mobil,lokasi,negatif
+staff resepsionis satpam houskeeping simpatik senang,pelayanan,positif
+harga asik murah,harga,positif
+staff abai,pelayanan,negatif
+checkin awal dibilang kamar full,pelayanan,negatif
+lokasi perlu lewat puncak terganggu macet,lokasi,negatif
+area hotel luas,fasilitas,positif
+menginap harga dua juta kamar kecil sempit lagi,harga,negatif
+tidak_bisa checkin lebih awal pesan online,pelayanan,negatif
+rooftop keren kumpul_kumpul,fasilitas,positif
+dekat masjid hartono_mall toga_mas gudeg_gejayan,lokasi,positif
+lokasi tidak_mendukung,lokasi,negatif
+makanan habis langsung refill,pelayanan,positif
+lift sempit kotor,fasilitas,negatif
+harga ditawarkan sesuai fasilitas didapat,harga,positif
+guava jus seperti jasjus rasa,sarapan,negatif
+ada beberapa permainan outdoor,fasilitas,positif
+masih dalam kota,lokasi,positif
+kamar ada kecoa,kamar,negatif
+hotel tidak_nyaman,fasilitas,negatif
+villa harga mahal tidak_ekonomis,harga,negatif
+garlic cheese enak,sarapan,positif
+staff parkir tidak_ada,pelayanan,negatif
+jalur cukup menantang tidak_ada lampu jalan cukup bahaya,lokasi,negatif
+saluran_tv semut,kamar,negatif
+kolam_renang seperti kolam_renang pribadi,fasilitas,positif
+perhatikan kebersihan makanan,sarapan,negatif
+pelayanan diberi setiap_saat,pelayanan,positif
+makan_malam sering luar hotel,sarapan,negatif
+perlakukan customer buruk,pelayanan,negatif
+desain minimalis elegan,fasilitas,positif
+staff mengatur parkir marah_marah,pelayanan,negatif
+ada akses langsung mall jogja city mall,fasilitas,positif
+gelas habis tidak_refill,pelayanan,negatif
+sarapan banyak pilihan,sarapan,positif
+hotel tidak_ada pencahayaan malam lampu tidak_terang,fasilitas,negatif
+bagus desain modern,fasilitas,positif
+sarapan jangan_ditanya,sarapan,positif
+lokasi sulit,lokasi,negatif
+nasgor asin,sarapan,negatif
+masuk lewat gang kecil,lokasi,negatif
+fasilitas banyak rusak terutama lift,fasilitas,negatif
+harga tidak_sesuai,harga,negatif
+shower air_panas dapat diatur,kamar,positif
+makanan nikmat,sarapan,positif
+sarapan minimalis,sarapan,negatif
+olahan telur spicy salmon wrap mantap,sarapan,positif
+menu kosong cepat diisi waktu sarapan habis,pelayanan,positif
+pelayanan kaku,pelayanan,negatif
+dekat terminal,lokasi,positif
+makanan monoton tidak_ada variasi,sarapan,negatif
+lobi luas terbuka nyaman instagrammable,fasilitas,positif
+kamar ada colokan banyak,kamar,positif
+arsitektur menarik mirip candi,fasilitas,positif
+hotel harga cukup terjangkau,harga,positif
+hotel ada fasilitas memetik buah taman hidroponik,fasilitas,positif
+tidak_semua staff gemar sapa ada mas nabrak hanya melihat,pelayanan,negatif
+sesuai harga pelayanan didapatkan,harga,positif
+seragam staff cantik,pelayanan,positif
+datang bagian resepsionis tidak_informasi detail fasilitas hotel,pelayanan,negatif
+mobil tidak_panas pepohonan semilir angin,fasilitas,positif
+hotel bersih,fasilitas,positif
+booking room dkasih room ada orangnya,pelayanan,negatif
+staff tidak_senyum banyak abai,pelayanan,negatif
+ada galon koridor lantai,fasilitas,positif
+harga kamar murah,harga,positif
+wifi buruk suka putus_putus,fasilitas,negatif
+harga standar fasilitas ada,harga,positif
+lokasi tidak_diragukan pusat_kota,lokasi,positif
+asik sarapan menu bebas msg,sarapan,positif
+ada fasilitas kolam_renang air_panas air_dingin sauna fitness center,fasilitas,positif
+pelayanan resepsionis lambat checkin,pelayanan,negatif
+kolam_renang dalam perbaikan,fasilitas,negatif
+lokasi jauh jalan_raya,lokasi,negatif
+lokasi dekat lampu_merah macet padat,lokasi,negatif
+menu buka_puasa cukup bervariasi,sarapan,positif
+akses malioboro harus pakai grab,lokasi,negatif
+pesan makanan hotel ada tambahan_biaya tiga_puluh_ribu,harga,negatif
+kulkas karet kendor,kamar,negatif
+dekat hotel jual banyak makanan,lokasi,positif
+sate gosong mentah mengecewakan,sarapan,negatif
+minuman alkohol lengkap,sarapan,positif
+makanan mahal,harga,negatif
+kamar tidak_dirapikan setiap_hari,pelayanan,negatif
+kamar_mandi air menggenang,kamar,negatif
+akustik gedung bagus cocok rapat besar koser musik,fasilitas,positif
+hotel konsep go_green_environment baik,fasilitas,positif
+ada rooftop kamar_renang anak suka pemandangan,fasilitas,positif
+tidak_ada klub anak,fasilitas,negatif
+kamar_mandi luas toilet duduk wastafel,kamar,positif
+setiap_hari menu makanan berbeda tidak_bosan menyenangkan,sarapan,positif
+staff hotel ramah berpapasan sopan,pelayanan,positif
+handuk tidak_disediakan harus sewa,harga,negatif
+tidak_ada kamar bilas setelah renang,fasilitas,negatif
+sayang persediaan sarapan cepat habis ramai,sarapan,negatif
+lokasi dekat kantor cabang perjalanan bisnis,lokasi,positif
+ada kids playground anak bisa bermain,fasilitas,positif
+jalan masuk agak kecil lebih_baik menggunakan google_maps,lokasi,negatif
+alat kesehatan harga terjangkau,harga,positif
+pelayanan makan tidak_tanggap,pelayanan,negatif
+akses jalan proses pengerjaan,lokasi,negatif
+ada makanan basi,sarapan,negatif
+kunci kamar error tidak_bisa dibuka,kamar,negatif
+kamar_mandi keadaan becek,kamar,negatif
+lokasi dapat diakses google_maps,lokasi,positif
+pelayanan oke mulai checkin checkout,pelayanan,positif
+kolam_renang resto tutup covid,fasilitas,negatif
+sprei kotor ada bercak,kamar,negatif
+tidak_cocok bawa orang_tua akses kamar batu tangga,fasilitas,negatif
+penampilan staff cantik,pelayanan,positif
+harga hotel lebih_murah dibanding hotel lain,harga,negatif
+makanan prasmanan rasa standar,sarapan,negatif
+staff resto tidak_ramah,pelayanan,negatif
+teko masak air kotor bau,kamar,negatif
+kamar ranjang bau,kamar,negatif
+sore ada dessert,sarapan,positif
+sprei banyak tungau,kamar,negatif
+ada lokasi golf kolam_renang pepohonan rindang tetap nyaman renang,fasilitas,positif
+staff ramah selalu menyapa bila berpapasan,pelayanan,positif
+hotel pelayanan baik,pelayanan,positif
+makanan tidak_enak lidah,sarapan,negatif
+makanan tidak_cocok lidah,sarapan,negatif
+kamar luas ada sofa,kamar,positif
+waktu refill makanan memakan waktu lama,pelayanan,negatif
+staff hotel ramah tanggap,pelayanan,positif
+makanan sederhana,sarapan,negatif
+harga segitu tidak_pas,harga,negatif
+pancuran shower rusak,kamar,negatif
+jamu beras_kencur kunyit_asam mencuri perhatian,sarapan,positif
+cocok menginap harga ramah_kantong,harga,positif
+harga tidak_kuras kantong,harga,positif
+tidak_ada transportasi umum sekitar lokasi,lokasi,negatif
+lokasi tengah pemukiman sulit ditemukan,lokasi,negatif
+dekat malioboro kraton,lokasi,positif
+aroma sprei terlalu wangi bikin pusing,kamar,negatif
+staff ramah ramah bantu,pelayanan,positif
+parkir mobil terbatas,fasilitas,negatif
+suka soto daging ayam lada hitam,sarapan,positif
+parkir mobil gratis,harga,positif
+tidak_ada kids play area,fasilitas,negatif
+kamar bau apek bercak dinding,kamar,negatif
+amenities lengkap ada handbody sisir alat_cukur,kamar,positif
+harga murah kualitas kamar luas,harga,positif
+hotel seram tidak_ada pencahayaan,fasilitas,negatif
+jalan menuju lokasi terjal sempit,lokasi,negatif
+wifi hanya bisa diakses lobi,fasilitas,negatif
+harga kompetitif,harga,positif
+susu sangat cair rasa seperti air_putih,sarapan,negatif
+tempat masuk gang sulit dicari,lokasi,negatif
+kolam_renang instagrammable asik foto,fasilitas,positif
+makanan enak,sarapan,positif
+pelayanan ramah profesional,pelayanan,positif
+staff menjelaskan kelengkapan secara detail,pelayanan,positif
+hotel ada fasilitas minimarket,fasilitas,positif
+kolam_renang cantik nuansa tradisional romantis,fasilitas,positif
+tidak_terlihat jalan_utama,lokasi,negatif
+pintu hotel ada handsanitizer,fasilitas,positif
+keseluruhan oke staff bagian depan pelayanan memuaskan,pelayanan,positif
+lobi baik interior,fasilitas,positif
+porsi lumayan banyak,sarapan,positif
+staff respon lama,pelayanan,negatif
+fasilitas lift tidak_memadai,fasilitas,negatif
+rekomendasi nasgor iga porsi besar citarasa enak,sarapan,positif
+harga super murah,harga,positif
+lokasi terjal,lokasi,negatif
+toilet engsel pintu rusak,kamar,negatif
+hotel sebelah mall banyak makanan depan hotel,lokasi,positif
+harus bayar parkir tidak_gratis,harga,negatif
+pelayanan perhatian menanyakan ada saran,pelayanan,positif
+lokasi pinggir_jalan suara kendaraan kedengaran kencang,lokasi,negatif
+menuju hotel seperti mendaki gunung lewati lembah,lokasi,negatif
+ada stand butik wanita,fasilitas,positif
+air_panas dingin kamar_mandi mengalir baik,kamar,positif
+hanya bawa satu roti tidak_boleh,sarapan,negatif
+cara bicara penjaga tidak_sopan sombong,pelayanan,negatif
+rebutan parkir,fasilitas,negatif
+jalan_kaki_lima menit sampai malioboro legendaris kota jogja,lokasi,positif
+kamar_mandi_luar tidak_ada privasi,kamar,negatif
+parkir luas ada basement,fasilitas,positif
+soto gorengan mantap,sarapan,positif
+beli makan jauh,lokasi,negatif
+hotel ramah staff,pelayanan,positif
+pelayanan ramah baik,pelayanan,positif
+shower air_panas lancar,kamar,positif
+porsi makanan kecil,sarapan,negatif
+dapat harga promo lima_ratus_ribu kamar hotel,harga,positif
+seperti hotel tua,fasilitas,negatif
+tiba_tiba ada buka pintu tim kebersihan,pelayanan,negatif
+beli oleh_oleh dekat terjangkau jalan_kaki,lokasi,positif
+lobi penuh tiga_puluh_tiga kamar tidak_siap,pelayanan,negatif
+pelayanan diskriminatif,pelayanan,negatif
+dapat kupon diskon makan,harga,positif
+komunikasi bagian call_center sulit,pelayanan,negatif
+sayang jauh keramaian maupun ojol,lokasi,negatif
+amenities gratis,harga,positif
+hotel mahal zonk,harga,negatif
+roti_tawar habis,sarapan,negatif
+harga tawarkan mahal,harga,negatif
+akses jauh jalan besar mobil sulit masuk,pelayanan,negatif
+resto tutup setelah sarapan,sarapan,negatif
+kasur besar,kamar,positif
+tidak_ada parkir motor,fasilitas,negatif
+staff minta maaf,pelayanan,positif
+lobi tersedia bahan bacaan koran majalah,fasilitas,positif
+bersih ruangan kamar,kamar,positif
+harga perlu ada promo,harga,negatif
+staff hanya satu pelayanan terganggu,pelayanan,negatif
+menu resto enak pas lidah,sarapan,positif
+tempat cocok acara wedding,fasilitas,positif
+overprice mahal,harga,negatif
+pelayanan responsif cepat,pelayanan,positif
+lokasi tidak_pinggir_jalan,lokasi,negatif
+tempat_tidur cukup baik penerangan cukup baik,kamar,positif
+keran toilet washer bocor,kamar,negatif

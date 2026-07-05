@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+     B-HOTEL      1.000     1.000     1.000        80
+     I-HOTEL      1.000     1.000     1.000        94
+       B-LOC      1.000     1.000     1.000        80
+    B-ASPECT      0.867     0.912     0.889        57
+    I-ASPECT      1.000     0.333     0.500         3
+
+   micro avg      0.975     0.978     0.976       314
+   macro avg      0.973     0.849     0.878       314
+weighted avg      0.976     0.978     0.975       314
+
+Token accuracy: 0.9852
+F1-macro (entitas): 0.8778
